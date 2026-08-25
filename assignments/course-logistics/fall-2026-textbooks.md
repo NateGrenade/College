@@ -27,10 +27,16 @@ Deadline set to **2026-08-30**, the day before classes begin (Monday
 - Action: ask Dr. Su Ji directly, or check whether a separate syllabus
   document exists on Canvas.
 
-## Courses 3 and 4
+## Linear Algebra
 
-- Not yet published on Canvas as of 2026-08-25. Revisit once the course
-  sites go live; the book list may not appear until then.
+- **Text not yet identified.** Course site not yet published on Canvas as
+  of 2026-08-25. Revisit once it goes live.
+
+## World Prehistory
+
+- **Text not yet identified.** Course site not yet published on Canvas as
+  of 2026-08-25. Archaeology/anthropology surveys often assign a single
+  survey text plus a reader; check for both.
 
 ## General
 
