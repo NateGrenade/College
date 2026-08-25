@@ -19,3 +19,21 @@ Kept in sync by the college-repo-write skill. An empty Entries section
 means nothing is tracked yet, not that the index is stale.
 
 ## Entries
+assignments/honors-discrete-math/pset-01.md | discrete math, pset 1, sets, proof by contrapositive | Problem Set 1 for Honors Discrete Mathematics (sections 10, 11, 12, 20) — due 2026-09-11, not-started, medium priority.
+assignments/honors-discrete-math/pset-02.md | discrete math, pset 2, relations | Problem Set 2 for Honors Discrete Mathematics (sections 14, 15, 16) — due 2026-09-18, not-started, medium priority.
+assignments/honors-discrete-math/pset-03.md | discrete math, pset 3, counting, combinatorial proof | Problem Set 3 for Honors Discrete Mathematics (sections 8, 9, 13, 17) — due 2026-09-25, not-started, medium priority.
+assignments/honors-discrete-math/pset-04.md | discrete math, pset 4, counting multisets, principle of inclusion-exclusion | Problem Set 4 for Honors Discrete Mathematics (sections 18, 19) — due 2026-09-30, not-started, medium priority.
+assignments/honors-discrete-math/pset-05.md | discrete math, pset 5, proof by contradiction, inductive proofs | Problem Set 5 for Honors Discrete Mathematics (sections 21, 22) — due 2026-10-09, not-started, medium priority.
+assignments/honors-discrete-math/pset-06.md | discrete math, pset 6, recurrence relations, functions | Problem Set 6 for Honors Discrete Mathematics (sections 23, 24) — due 2026-10-16, not-started, medium priority.
+assignments/honors-discrete-math/pset-07.md | discrete math, pset 7, pigeonhole principle, composition | Problem Set 7 for Honors Discrete Mathematics (sections 25, 26) — due 2026-10-21, not-started, medium priority.
+assignments/honors-discrete-math/pset-08.md | discrete math, pset 8, graphs | Problem Set 8 for Honors Discrete Mathematics (sections 47, 48) — due 2026-10-28, not-started, medium priority.
+assignments/honors-discrete-math/pset-09.md | discrete math, pset 9, graphs | Problem Set 9 for Honors Discrete Mathematics (sections 49, 50) — due 2026-11-06, not-started, medium priority.
+assignments/honors-discrete-math/pset-10.md | discrete math, pset 10, graphs | Problem Set 10 for Honors Discrete Mathematics (sections 51, 52) — due 2026-11-13, not-started, medium priority.
+assignments/honors-discrete-math/pset-11.md | discrete math, pset 11, permutations, dividing, modular arithmetic | Problem Set 11 for Honors Discrete Mathematics (sections 27, 37, 40) — due 2026-11-18, not-started, medium priority.
+assignments/honors-discrete-math/pset-12.md | discrete math, pset 12, groups | Problem Set 12 for Honors Discrete Mathematics (sections 41, 42) — due 2026-12-04, not-started, medium priority.
+assignments/honors-discrete-math/pset-13.md | discrete math, pset 13, groups | Problem Set 13 for Honors Discrete Mathematics (sections 42) — due 2026-12-11, not-started, medium priority.
+assignments/honors-discrete-math/exam-1.md | discrete math, exam 1, midterm, sections 2 | Exam 1 for Honors Discrete Mathematics (sections 2, 3, ..., 13, 14, 15, 16, 17, 20) — due 2026-10-02, not-started, high priority.
+assignments/honors-discrete-math/exam-2.md | discrete math, exam 2, midterm, sections 18 | Exam 2 for Honors Discrete Mathematics (sections 18, 19, ..., 26) — due 2026-10-30, not-started, high priority.
+assignments/honors-discrete-math/exam-3.md | discrete math, exam 3, midterm, sections 47 | Exam 3 for Honors Discrete Mathematics (sections 47, 48, 49, 50, 51, 52) — due 2026-11-20, not-started, high priority.
+assignments/honors-discrete-math/final-exam.md | discrete math, final exam, cumulative | Final Exam for Honors Discrete Mathematics — due 2026-12-15 (PLACEHOLDER, actual date TBD in the 12/15-12/23 window), not-started, high priority.
+assignments/course-logistics/fall-2026-textbooks.md | textbooks, books, everything's an argument, lunsford, course materials | Acquire required textbooks for all Fall 2026 courses before classes begin — due 2026-08-30, not-started, high priority.
