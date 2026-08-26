@@ -12,11 +12,20 @@ Deadline set to **2026-08-30**, the day before classes begin (Monday
 
 ## Professional Writing and Ethics
 
-- **Everything's An Argument**, 9th edition (2021)
-- Andrea A. Lunsford and John J. Ruszkiewicz
-- Check MSE Library course reserves and the e-book catalogue before
-  buying. If buying, confirm the 9th-edition ISBN against the bookstore's
-  course-materials listing — earlier editions renumber chapters.
+**Three required texts**, not one. The syllabus notes that additional
+readings will be provided on Canvas, and says to confirm via Canvas how to
+access these materials — some may already be provided, so check before
+buying all three.
+
+1. Lunsford, Andrea A. and John J. Ruszkiewicz. *Everything's An Argument*,
+   9th edition, 2021.
+2. Johnson, Deborah G. *Engineering Ethics: Contemporary and Enduring
+   Debates*, 11th edition, 2020.
+3. Greene, Anne E. *Writing Science in Plain English*, 2013.
+
+Check MSE Library course reserves and the e-book catalogue first. Confirm
+edition-specific ISBNs against the bookstore listing — earlier editions of
+Lunsford and Johnson renumber chapters.
 
 ## Honors Discrete Mathematics
 
