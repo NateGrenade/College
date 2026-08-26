@@ -1,6 +1,6 @@
 ---
 course: Professional Writing and Ethics
-due: TBD
+due: 2026-12-15
 status: not-started
 priority: high
 weight: 20%
@@ -9,9 +9,9 @@ weight: 20%
 # Multimodal Public Project (Individual)
 
 **Weight:** 20% of the final grade
-**Due:** **TBD — not stated in the syllabus.** Get this from Canvas or from
-Prof. Walker and update this file. Note that PWE deadlines are **12:00pm**,
-not midnight.
+**Due:** 2026-12-15 (Tuesday) by 12:00pm
+
+**Process chain:** Storyboard due 2026-12-06; co-working session Dec 8. Falls in Finals Week.
 
 An independent, multimodal, public-facing project communicating the
 message of the Policy Brief to a community audience. Develops skills in
@@ -35,3 +35,5 @@ it cannot be started in earnest until the brief has taken shape.
 
 Screen-capture PDF of the Canva syllabus, 2026-08-25 (deliverables table).
 The capture contains no course calendar, hence no date.
+
+- Date source: Canvas module listing, provided 2026-08-25.
