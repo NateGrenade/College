@@ -1,6 +1,6 @@
 ---
 course: Professional Writing and Ethics
-due: TBD
+due: 2026-10-10
 status: not-started
 priority: high
 weight: 25%
@@ -9,9 +9,9 @@ weight: 25%
 # White Paper (Team)
 
 **Weight:** 25% of the final grade
-**Due:** **TBD — not stated in the syllabus.** Get this from Canvas or from
-Prof. Walker and update this file. Note that PWE deadlines are **12:00pm**,
-not midnight.
+**Due:** 2026-10-10 (Saturday) by 12:00pm
+
+**Process chain:** White Paper rough draft due 2026-10-02; feedback meetings Oct 6; advocacy roundtables Oct 8.
 
 A collaboratively written, research-based document advocating a specific
 position or course of action related to the social responsibilities of
@@ -32,3 +32,5 @@ nuanced awareness of competing stakeholder perspectives.
 
 Screen-capture PDF of the Canva syllabus, 2026-08-25 (deliverables table).
 The capture contains no course calendar, hence no date.
+
+- Date source: Canvas module listing, provided 2026-08-25.
