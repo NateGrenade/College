@@ -1,6 +1,6 @@
 ---
 course: Professional Writing and Ethics
-due: TBD
+due: 2026-11-21
 status: not-started
 priority: high
 weight: 30%
@@ -9,9 +9,9 @@ weight: 30%
 # Policy Brief (Individual)
 
 **Weight:** 30% of the final grade
-**Due:** **TBD — not stated in the syllabus.** Get this from Canvas or from
-Prof. Walker and update this file. Note that PWE deadlines are **12:00pm**,
-not midnight.
+**Due:** 2026-11-21 (Saturday) by 12:00pm
+
+**Process chain:** Policy Brief rough draft due 2026-11-06; peer review Nov 12; instructor feedback returned Nov 15; revision workshop Nov 17.
 
 An individually written, research-based document analyzing an issue of
 your choice and recommending actionable policy measures. Develops
@@ -34,3 +34,5 @@ Heaviest single component in the course at 30%.
 
 Screen-capture PDF of the Canva syllabus, 2026-08-25 (deliverables table).
 The capture contains no course calendar, hence no date.
+
+- Date source: Canvas module listing, provided 2026-08-25.
