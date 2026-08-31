@@ -13,7 +13,7 @@ the file itself.
 
 Repo layout: assignments live at assignments/<course-slug>/<assignment-slug>.md,
 projects at projects/<project-slug>/README.md, skills at
-skills/<subject-slug>.md.
+skills/<subject-slug>.md, and term-level planning references at events/.
 
 Kept in sync by the college-repo-write skill. An empty Entries section
 means nothing is tracked yet, not that the index is stale.
@@ -64,3 +64,4 @@ assignments/linear-algebra-data-science/midterm-1.md | linear algebra, lads, mid
 assignments/linear-algebra-data-science/midterm-2.md | linear algebra, lads, midterm 2, exam, not cumulative | Midterm 2 for Linear Algebra for Data Science, worth 20%, non-cumulative 8:00-9:00pm evening exam shared with LADE - due 2026-11-10, not-started, high priority.
 assignments/linear-algebra-data-science/final-exam.md | linear algebra, lads, final exam, cumulative, svd, pca | Final Exam for Linear Algebra for Data Science, worth 39% and cumulative (~30% core LA / 70% data science) - due 2026-12-16 2:00-5:00pm, not-started, high priority.
 assignments/linear-algebra-data-science/office-hours-requirement.md | linear algebra, lads, office hours, participation, 0.5% | Office hours attendance requirement for Linear Algebra for Data Science, worth 0.5% - due 2026-10-02, not-started, medium priority.
+events/fall-2026-crunch-windows.md | crunch, overlap, busy weeks, study plan, fall 2026, calendar | Cross-course load analysis for Fall 2026: the three high-density windows (Sep 28-Oct 11, Nov 3-21, Dec 11-16), what collides in each, and which weekends to protect - reference, no due date.
