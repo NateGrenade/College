@@ -2,6 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
+last_updated: 2026-09-10
 ---
 
 # Fall 2026 — crunch windows
@@ -12,7 +13,9 @@ per-item view undersells the real problem. A 20% midterm three days after a
 four-item pileup is worse than either in isolation, and `/weekly-review`'s
 7-14 day horizon can cut a window in half and hide that.
 
-Derived from INDEX.md due dates as of 2026-08-31. **Regenerate if any due
+Derived from INDEX.md due dates as of 2026-08-31; planning claims and
+placeholder labels reviewed against INDEX.md and the PWE course schedule
+on 2026-09-10. This review does not reconfirm every date with instructors. **Regenerate if any due
 date shifts** — the HDM schedule is explicitly tentative, the LADS syllabus
 is a 1st draft, and World Prehistory has not published a Canvas site yet,
 so this file is provisional on all three counts.
@@ -30,15 +33,16 @@ so this file is provisional on all three counts.
 | **Sat 10-10** | **PWE White Paper (Team), 25%** |
 | Sun 10-11 | LADS HW 6 |
 
-Eight graded items in twelve days, containing a 20% exam and a 25% paper.
+Nine tracked items in twelve days, containing a 20% exam and a 25% paper.
 
 **The conflict:** Micheli recommends starting the Midterm 1 cheat sheet a
 week out, which puts sheet-writing directly on top of Oct 2. It does not fit.
 
 **Plan:**
-- Weekend of **Sep 26-27** — draft the Midterm 1 cheat sheet early, while
-  the workload is still light. This is the whole trick for Window A.
-- Weekend of **Oct 3-4** — pure Midterm 1 review, nothing else competing.
+- Weekend of **Sep 26-27** — aim to draft the Midterm 1 cheat sheet early.
+  Reserve time after checking routine work and White Paper preparation.
+- Weekend of **Oct 3-4** — prioritize Midterm 1 review while also allowing
+  for White Paper revisions and the Oct 9-11 assignments.
 - Do the **LADS office-hours visit in mid-September**. It is 0.5% for
   showing up once with a real question; leaving it to Oct 2 converts free
   credit into a fourth deadline on the worst day of the month.
@@ -61,7 +65,7 @@ Same structural problem as Window A, stretched over three weeks.
 
 **The conflicts:**
 - The Nov 6 triple sits inside Midterm 2's prep window, leaving only
-  **Nov 7-9** as a clear run at a 20% exam.
+  **Nov 7-9** as the main review period for a 20% exam, alongside ongoing work.
 - Nov 16-19 requires prepping HDM Exam 3 and finishing a 30% policy brief
   at the same time.
 
@@ -74,24 +78,28 @@ review rather than composition plus review.
 
 ---
 
-## Window C — 2026-12-11 to 2026-12-16 — finals
+## Window C — 2026-12-11 through finals — dates partly TBD
 
 | Date | Items |
 |---|---|
 | Fri 12-11 | HDM Pset 13 + LADS HW 13 |
-| **Tue 12-15** | **HDM Final** + PWE Multimodal Public Project (20%) + Final Reflection |
+| **Tue 12-15** | PWE Multimodal Public Project (20%) |
+| TBD, Dec 15-23 | **HDM Final** — Dec 15 is a placeholder in INDEX.md |
+| TBD, finals period | PWE Final Reflection — Dec 15 is a placeholder in INDEX.md |
 | **Wed 12-16** | **LADS Final — 39%, cumulative, 2:00-5:00pm** |
 
-The tightest squeeze on the calendar. The single largest grade component in
-any course sits one day after two other finals-week deliverables, and the
-usable reading period is only **Dec 12-14**.
+A potentially tight finals window. The LADS final is currently listed one
+day after the PWE multimodal project. Confirm the HDM final and PWE
+reflection dates before assuming their overlap or limiting preparation
+to Dec 12-14.
 
 **Plan:**
-- Treat the **Dec 6 storyboard** as a hard commitment to finish the
-  multimodal project, not a checkpoint. That clears Dec 12-14 for exams only.
-- **Thanksgiving week (Nov 22 - Dec 1) has zero due dates** across all four
-  courses — the only true gap in the semester. Build the three-sided LADS
-  final cheat sheet then, while the core material is still fresh.
+- Use the **Dec 6 storyboard** deadline as a target for a substantial
+  multimodal-project draft. Budget revision time before the Dec 15 submission.
+- **Nov 22 - Dec 1** has no separately indexed submission deadlines in the
+  current snapshot. Routine work and Anthropology coverage remain incomplete;
+  LADS HW 12 follows on Dec 2 and the PWE storyboard on Dec 6. Use available
+  time to begin the three-sided LADS final cheat sheet.
 
 ---
 
@@ -108,8 +116,17 @@ drops half a letter *each*, and three tardies equal an absence. Skipping a
 Tuesday or Thursday to study for a LADS midterm costs more than it saves.
 This is the one place where the obvious crunch-week move is the wrong one.
 
-## Quiet stretches — use them
+## Preparation stretches — check the actual workload
 
-- **Sep 5 - Sep 25** — roughly one item per week. Build Midterm 1 material.
-- **Oct 12 - Oct 28** — moderate; HDM Exam 2 (Oct 30) is the only spike.
-- **Nov 22 - Dec 1** — completely empty. The highest-leverage week of the term.
+- **Sep 5 - Sep 25** — recurring work in both math courses, including paired
+  deadlines on Sep 18 and Sep 25, plus Writing readings and responses. Build
+  Midterm 1 material around those commitments; this is not one item per week.
+- **Oct 12 - Oct 28** — both math courses have work, including the Oct 16
+  double deadline and LADS HW 8 on Oct 26. Prepare for HDM Exam 2 and LADS
+  HW 9 on Oct 30, plus the Policy Brief rough draft due Nov 6.
+- **Nov 22 - Dec 1** — potentially lighter in the indexed schedule, subject
+  to untracked work. Prepare for Dec 2 and Dec 6 deadlines as well as finals.
+
+Absence from INDEX.md or a calendar does not establish that a period is
+free. Check current instructor updates, Canvas, and Anthropology coverage
+before reserving an entire weekend for a single course.
