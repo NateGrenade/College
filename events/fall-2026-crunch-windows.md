@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-10
+last_updated: 2026-09-11
 ---
 
 # Fall 2026 — crunch windows
@@ -17,10 +17,19 @@ Derived from INDEX.md due dates as of 2026-08-31; planning claims and
 placeholder labels reviewed against INDEX.md and the PWE course schedule
 on 2026-09-10. This review does not reconfirm every date with instructors. **Regenerate if any due
 date shifts** — the HDM schedule is explicitly tentative, the LADS syllabus
-is a 1st draft, and World Prehistory has not published a Canvas site yet,
+is a 1st draft, and World Prehistory deadlines remain unverified in the checked sources,
 so this file is provisional on all three counts.
 
 ---
+
+## Near-term optional commitments — reviewed September 11
+
+- **Sep 18-20: HopHacks.** If attending, complete LADS HW3 and HDM Pset 2 before the Sep 18 opening; both assignments are due that Friday. Registration is not established.
+- **Sep 16: DSAI poster abstract cutoff.** Only relevant if submitting existing or new research; the symposium itself is Oct 27.
+- **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
+- PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
+
+These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. No course due-date change was found in the September 11 email/calendar review.
 
 ## Window A — 2026-09-28 to 2026-10-11 — the peak
 
