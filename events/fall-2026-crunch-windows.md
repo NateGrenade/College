@@ -26,6 +26,7 @@ so this file is provisional on all three counts.
 
 - **Sep 18-20: HopHacks.** If attending, complete LADS HW3 and HDM Pset 2 before the Sep 18 opening; both assignments are due that Friday. Registration is not established.
 - **Sep 16: DSAI poster abstract cutoff.** Only relevant if submitting existing or new research; the symposium itself is Oct 27.
+- **Sep 17 noon application / Nov 1-3: NASEC.** If selected, the conference ends only three days before the Nov 6 triple deadline and one week before the Nov 10 LADS midterm; front-load that work before traveling. Application and selection are not established.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
 
