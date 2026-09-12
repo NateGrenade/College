@@ -22,3 +22,16 @@ priority: medium
 - Section/topic coverage is inferred from the schedule row this pset sits
   in. If psets actually lag a week behind lecture, shift the coverage back
   one row.
+
+## Submission policy - syllabus added 2026-09-12
+
+- Confirm the actual due date/time on Canvas or Gradescope; the date above
+  remains from the tentative schedule. This syllabus gives no due time.
+- Submit an easily readable scanned **PDF** on **Gradescope** and select
+  the page(s) for each problem. **Late homework is not accepted.**
+- Clearly justify each step and submit your own solutions. Discussion
+  with classmates is allowed; using AI to solve math problems is prohibited.
+- Homework is **15% collectively**, with a 100-point reduction in the total
+  possible points and a cap of 100%. No numerical upload-size limit is stated.
+- Full policy and grading formula: [course-info.md](course-info.md).
+- Source: `F26 EN.553.172 HDM Syllabus.pdf`, PDF pp. 2-4.

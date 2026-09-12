@@ -27,14 +27,18 @@ Check MSE Library course reserves and the e-book catalogue first. Confirm
 edition-specific ISBNs against the bookstore listing — earlier editions of
 Lunsford and Johnson renumber chapters.
 
-## Honors Discrete Mathematics
+## Honors Discrete Mathematics - text identified 2026-09-12
 
-- **Text not yet identified.** The document on hand is a tentative weekly
-  schedule, not a full syllabus, and it names no book. The "Sections"
-  column runs to the 50s, which suggests a text organized in short
-  numbered sections rather than chapters.
-- Action: ask Dr. Su Ji directly, or check whether a separate syllabus
-  document exists on Canvas.
+- **Required:** Edward Scheinerman, *Mathematics: A Discrete Introduction*,
+  **3rd edition**, ISBN **9780840049421**.
+- **Optional:** Stephen Lovett, *Abstract Algebra, a first course*, available
+  online through the JHU library.
+- **Supplemental proof-writing resource:** Ted Sundstrom,
+  *Mathematical Reasoning: Writing and Proof*.
+- Source: `F26 EN.553.172 HDM Syllabus.pdf`, PDF p. 2.
+  See [HDM course reference](../honors-discrete-math/course-info.md).
+- This resolves the previously unidentified title. Ownership/access to this
+  specific edition is not established by this import.
 
 ## Linear Algebra for Data Science (EN.553.295) — RESOLVED
 
@@ -63,7 +67,7 @@ Resolved 2026-08-31 from the EN.553.295 syllabus. See
   it is actually used.
 - Library course reserves cover a surprising share of required texts.
 
-## Status — closed 2026-08-31
+## Historical status — closed 2026-08-31
 
 Marked **done**: everything that needed buying has been bought. Two texts
 remain unidentified, but neither is a purchase blocker right now:
@@ -74,3 +78,10 @@ remain unidentified, but neither is a purchase blocker right now:
 
 If either turns out to require a text, that is a new item, not a reopening
 of this one.
+
+## Update - 2026-09-12
+
+The HDM title and edition are now identified above; only World Prehistory's
+text remains unidentified in this file. The historical done status is
+preserved. If the required HDM book is not already accessible, track
+acquisition separately as specified by the original closure note.

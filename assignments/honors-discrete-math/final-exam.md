@@ -18,6 +18,9 @@ the registrar posts the actual date, time, and location.
 
 - Source: `F26 HDM Tentative Schedule.xlsx` (Dr. Su Ji) — the row reads
   "Final: Date, time, location TBD".
-- Cumulative coverage is assumed but not stated in the schedule. Confirm
-  with Dr. Su Ji whether the final is cumulative or covers only sections
-  27, 37, 40, 41, 42 (the post-Exam-3 material).
+- **Comprehensive coverage confirmed** by `F26 EN.553.172 HDM Syllabus.pdf`,
+  PDF p. 3 (imported 2026-09-12). This resolves the earlier coverage question.
+- **Weight: 20% or 30%**, whichever overall grading scheme yields the higher
+  course score. See [course-info.md](course-info.md#grading---two-nested-higher-of-calculations).
+- The syllabus supplies no exact final date/time/location; the existing
+  placeholder and schedule-derived window remain unconfirmed.

@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-11
+last_updated: 2026-09-12
 ---
 
 # Fall 2026 — crunch windows
@@ -94,6 +94,7 @@ review rather than composition plus review.
 | Fri 12-11 | HDM Pset 13 + LADS HW 13 |
 | **Tue 12-15** | PWE Multimodal Public Project (20%) |
 | TBD, Dec 15-23 | **HDM Final** — Dec 15 is a placeholder in INDEX.md |
+| TBD, end of semester | **HDM three perfect proofs - 5%, typed in LaTeX** |
 | TBD, finals period | PWE Final Reflection — Dec 15 is a placeholder in INDEX.md |
 | **Wed 12-16** | **LADS Final — 39%, cumulative, 2:00-5:00pm** |
 
@@ -103,6 +104,9 @@ reflection dates before assuming their overlap or limiting preparation
 to Dec 12-14.
 
 **Plan:**
+- Complete HDM PP-labelled proofs progressively and confirm their exact
+  end-of-semester deadline. This requirement was added from the HDM syllabus
+  on 2026-09-12; it has no confirmed date to place in the calendar.
 - Use the **Dec 6 storyboard** deadline as a target for a substantial
   multimodal-project draft. Budget revision time before the Dec 15 submission.
 - **Nov 22 - Dec 1** has no separately indexed submission deadlines in the
