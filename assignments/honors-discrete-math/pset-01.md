@@ -1,7 +1,7 @@
 ---
 course: Honors Discrete Mathematics
 due: 2026-09-11
-status: not-started
+status: done
 priority: medium
 ---
 
