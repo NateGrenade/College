@@ -81,3 +81,4 @@ events/2026-09-18-20-hophacks.md | hophacks, hackathon, coding, workload | HopHa
 events/2026-09-16-29-freshman-council-elections.md | freshman council, elections, sga, info sessions | Candidate sessions Sep 16/17/18; eligibility forms Sep 20 at 11:59 PM; voting Sep 28-29.
 events/2026-10-06-blue-jay-dialogue-fund.md | dialogue, innovation fund, grant, student groups | Collaborative student dialogue grant up to $10,000; applications Oct 6, coinciding with LADS midterm.
 events/2026-09-15-financial-wellness-webinar.md | financial wellness, banking, webinar | Optional banking webinar Sep 15 at 5 PM Eastern; confirm registration time because email labels it EST.
+events/2026-09-15-hopkins-votes-registration-table.md | hopkins votes, voter registration, absentee ballot, campus logistics | Optional nonpartisan assistance Sep 15 on Keyser Quad; event hours unspecified, not a legal registration deadline.
