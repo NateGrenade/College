@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-12
+last_updated: 2026-09-15
 ---
 
 # Fall 2026 — crunch windows
@@ -22,22 +22,26 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 11
+## Near-term optional commitments — reviewed September 15
 
+- **Sep 15 / Sep 18: STEM and Homewood career fairs.** Sep 15 STEM fair is 2-6 PM, overlapping Writing and Tuesday LADS recitation; Sep 18 Homewood fair is 10 AM-4 PM, overlapping both math lectures. Choose slots around class and finish math work early.
+- **Sep 20, 11:59 PM: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. Selected interviews Oct 1-2 add a possible Window A conflict.
+- **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
+- **Oct 2, 12:30-1:30 PM: Corotis AI/data-science lecture.** Optional; same-day draft and tentative exam take precedence. Ends at LADS lecture start.
 - **Sep 18-20: HopHacks.** If attending, complete LADS HW3 and HDM Pset 2 before the Sep 18 opening; both assignments are due that Friday. Registration is not established.
 - **Sep 16: DSAI poster abstract cutoff.** Only relevant if submitting existing or new research; the symposium itself is Oct 27.
 - **Sep 17 noon application / Nov 1-3: NASEC.** If selected, the conference ends only three days before the Nov 6 triple deadline and one week before the Nov 10 LADS midterm; front-load that work before traveling. Application and selection are not established.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
 
-These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. No course due-date change was found in the September 11 email/calendar review.
+These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. No major course due-date change was found in the September 15 email/calendar review. Canvas confirms Sep 18/25/30 and Oct 9 HDM pset dates, without cutoff times; HDM exam dates remain tentative. Walker's September 14 update moved the September 15 rhetorical analysis to classwork; the separate offline active-reading homework remains due in class.
 
 ## Window A — 2026-09-28 to 2026-10-11 — the peak
 
 | Date | Items |
 |---|---|
 | Wed 09-30 | HDM Pset 4 |
-| **Fri 10-02** | **HDM Exam 1** + PWE White Paper rough draft + **LADS HW 5** + LADS office-hours deadline |
+| **Fri 10-02** | **HDM Exam 1 (tentative)** + PWE White Paper rough draft + **LADS HW 5** + LADS office-hours deadline |
 | **Tue 10-06** | **LADS Midterm 1 (20%)**, 8:00-9:00pm |
 | Fri 10-09 | HDM Pset 5 |
 | **Sat 10-10** | **PWE White Paper (Team), 25%** |
@@ -46,16 +50,16 @@ These are optional opportunities, not additional course requirements. Source ann
 Nine tracked items in twelve days, containing a 20% exam and a 25% paper.
 
 **The conflict:** Micheli recommends starting the Midterm 1 cheat sheet a
-week out, which puts sheet-writing directly on top of Oct 2. It does not fit.
+week out, which puts sheet-writing in the same preparation window as Oct 2. Start earlier to reduce that overlap.
 
 **Plan:**
 - Weekend of **Sep 26-27** — aim to draft the Midterm 1 cheat sheet early.
   Reserve time after checking routine work and White Paper preparation.
 - Weekend of **Oct 3-4** — prioritize Midterm 1 review while also allowing
   for White Paper revisions and the Oct 9-11 assignments.
-- Do the **LADS office-hours visit in mid-September**. It is 0.5% for
-  showing up once with a real question; leaving it to Oct 2 converts free
-  credit into a fourth deadline on the worst day of the month.
+- Do the **LADS office-hours visit in mid-September**. It is worth 0.5% for
+  a meaningful visit; leaving it to Oct 2 adds another task to an already
+  crowded day.
 
 ---
 
@@ -68,7 +72,7 @@ week out, which puts sheet-writing directly on top of Oct 2. It does not fit.
 | Fri 11-13 | HDM Pset 10 |
 | Sun 11-15 | LADS HW 11 |
 | Wed 11-18 | HDM Pset 11 |
-| **Fri 11-20** | **HDM Exam 3** |
+| **Fri 11-20** | **HDM Exam 3 (tentative)** |
 | **Sat 11-21** | **PWE Policy Brief (Individual), 30%** |
 
 Same structural problem as Window A, stretched over three weeks.
