@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-15
+last_updated: 2026-09-16
 ---
 
 # Fall 2026 — crunch windows
@@ -22,10 +22,10 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 15
+## Near-term optional commitments — reviewed September 16
 
 - **Sep 15 / Sep 18: STEM and Homewood career fairs.** Sep 15 STEM fair is 2-6 PM, overlapping Writing and Tuesday LADS recitation; Sep 18 Homewood fair is 10 AM-4 PM, overlapping both math lectures. Choose slots around class and finish math work early.
-- **Sep 20, 11:59 PM: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. Selected interviews Oct 1-2 add a possible Window A conflict.
+- **Sep 30: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. A newer announcement moved the listed deadline from Sep 20 to Sep 30; verify the live posting. Earlier material lists interviews Oct 1-2, adding a possible Window A conflict.
 - **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
 - **Oct 2, 12:30-1:30 PM: Corotis AI/data-science lecture.** Optional; same-day draft and tentative exam take precedence. Ends at LADS lecture start.
 - **Sep 18-20: HopHacks.** If attending, complete LADS HW3 and HDM Pset 2 before the Sep 18 opening; both assignments are due that Friday. Registration is not established.
@@ -34,7 +34,7 @@ so this file is provisional on all three counts.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
 
-These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. No major course due-date change was found in the September 15 email/calendar review. Canvas confirms Sep 18/25/30 and Oct 9 HDM pset dates, without cutoff times; HDM exam dates remain tentative. Walker's September 14 update moved the September 15 rhetorical analysis to classwork; the separate offline active-reading homework remains due in class.
+These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. Micheli's September 15 reminder confirms LADS HW3 is due Friday night, September 18; the weekend deadlines for HW1-2 were start-of-term exceptions. It also reconfirms that the office-hours visit is due October 2 with no exceptions. Canvas confirms Sep 18/25/30 and Oct 9 HDM pset dates, without cutoff times; HDM exam dates remain tentative. World Prehistory remains unverified.
 
 ## Window A — 2026-09-28 to 2026-10-11 — the peak
 

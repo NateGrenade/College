@@ -1,7 +1,7 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-15
+last_updated: 2026-09-16
 timezone: America/New_York
 start_date: 2026-09-14
 end_date: 2026-11-13
@@ -13,8 +13,7 @@ General published deadlines; these do not establish any individual's completion,
 
 | Date | Deadline / action |
 |---|---|
-| Sep 14 (elapsed; warning pending) | Roommate/Shared Space Agreement cutoff. If unfinished, check Birdhouse and contact the Residence Director for instructions; completion is unverified. Retain until the once-only elapsed-deadline warning is verifiably delivered. |
-| Sep 15 | Review health-insurance enrollment or waiver through Academic Health Plans, if applicable. |
+| Sep 15 (elapsed; warning pending) | Health-insurance enrollment/waiver deadline. If status is unverified, check Academic Health Plans immediately and contact SEAM/AHP about remaining options. Retain until the once-only elapsed-deadline warning is verifiably delivered. |
 | Sep 28, 4:30 PM | Applicable WSE CAL enrollment and credit/grading changes close. |
 | Before Oct 22 | Complete faculty-mentor meeting before Fall Break; required before the advisor can release the registration hold. First-year students also need a second meeting before term end (exact date unspecified). |
 | Oct 12, 4:30 PM | Full-term course drop deadline. |
@@ -26,7 +25,8 @@ General published deadlines; these do not establish any individual's completion,
 
 ## Cleanup notification checkpoint
 
-- September 14 housing deadline: warning prepared for the September 15 brief; delivery not yet verified at commit time. On a later run, remove the expired row only after verifying that brief was delivered. No claim of non-submission.
+- September 14 housing deadline: removed September 16 after the September 15 brief delivered the elapsed-deadline warning.
+- September 15 insurance deadline: warning prepared for the September 16 brief; delivery not yet verified at commit time. Remove the expired row on a later run only after verifying delivery. No claim of non-completion.
 
 ## Source
 
