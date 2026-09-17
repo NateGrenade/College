@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-15
+last_updated: 2026-09-17
 timezone: America/New_York
-start_date: 2026-09-16
+start_date: 2026-09-23
 end_date: 2026-09-30
 ---
 
@@ -11,7 +11,6 @@ end_date: 2026-09-30
 
 | Date | Event (Eastern, campus-local interpretation) |
 |---|---|
-| Sep 16, 6-7 PM | Prof. Mee Seong Im Math Journey, Krieger 413; accessible to any mathematical background, all welcome |
 | Sep 23, 11 AM-1 PM | Welcome Back Lunch; location TBD; RSVP requested for food count |
 | Sep 24, 5-6 PM | Monthly Practice Talks; location TBD |
 | Throughout September | Mentor/mentee sign-ups; exact closing timestamp not supplied |

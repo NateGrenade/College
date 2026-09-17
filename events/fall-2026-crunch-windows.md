@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-16
+last_updated: 2026-09-17
 ---
 
 # Fall 2026 — crunch windows
@@ -22,14 +22,13 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 16
+## Near-term optional commitments — reviewed September 17
 
 - **Sep 15 / Sep 18: STEM and Homewood career fairs.** Sep 15 STEM fair is 2-6 PM, overlapping Writing and Tuesday LADS recitation; Sep 18 Homewood fair is 10 AM-4 PM, overlapping both math lectures. Choose slots around class and finish math work early.
 - **Sep 30: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. A newer announcement moved the listed deadline from Sep 20 to Sep 30; verify the live posting. Earlier material lists interviews Oct 1-2, adding a possible Window A conflict.
 - **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
 - **Oct 2, 12:30-1:30 PM: Corotis AI/data-science lecture.** Optional; same-day draft and tentative exam take precedence. Ends at LADS lecture start.
 - **Sep 18-20: HopHacks.** If attending, complete LADS HW3 and HDM Pset 2 before the Sep 18 opening; both assignments are due that Friday. Registration is not established.
-- **Sep 16: DSAI poster abstract cutoff.** Only relevant if submitting existing or new research; the symposium itself is Oct 27.
 - **Sep 17 noon application / Nov 1-3: NASEC.** If selected, the conference ends only three days before the Nov 6 triple deadline and one week before the Nov 10 LADS midterm; front-load that work before traveling. Application and selection are not established.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.

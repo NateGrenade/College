@@ -67,23 +67,23 @@ assignments/linear-algebra-data-science/midterm-2.md | linear algebra, lads, mid
 assignments/linear-algebra-data-science/final-exam.md | linear algebra, lads, final exam, cumulative, svd, pca | Final Exam for Linear Algebra for Data Science, worth 39% and cumulative (~30% core LA / 70% data science) - due 2026-12-16 2:00-5:00pm, not-started, high priority.
 assignments/linear-algebra-data-science/office-hours-requirement.md | linear algebra, lads, office hours, participation, 0.5% | Office hours attendance requirement for Linear Algebra for Data Science, worth 0.5% - due 2026-10-02, not-started, medium priority.
 events/fall-2026-crunch-windows.md | crunch, overlap, busy weeks, study plan, fall 2026, calendar | Cross-course load analysis for Fall 2026: the three high-density windows (Sep 28-Oct 11, Nov 3-21, Dec 11 through finals; some dates TBD), what collides in each, which weekends to protect, and HDM perfect proofs due end of semester (date TBD) - reference, no due date.
-events/2026-09-12-18-future-fest.md | future fest, career fair, internships, resume | Prep Sep 16-17 noon-6 PM; Homewood fair Sep 18, Rec Center: lanyard entry 10 AM, all undergraduates 10:30 AM; preserve class and math-deadline time.
+events/2026-09-12-18-future-fest.md | future fest, career fair, internships, resume | Final prep session Sep 17 noon-6 PM; Homewood fair Sep 18, Rec Center: lanyard entry 10 AM, all undergraduates 10:30 AM; preserve class and math-deadline time.
 events/2026-11-01-03-nasec.md | nasec, naval academy, engineering conference, application | NASEC Nov 1-3 in Annapolis; apply by Sep 17 at noon with a short statement and resume; selection and participation unknown.
 events/2026-09-24-wall-street-internship-academy.md | wall street, internship academy, finance, application | Wall Street Internship Academy applications close Sep 24 (time unspecified); Finance 101 date not supplied.
-events/fall-2026-administrative-deadlines.md | registration, add, drop, withdrawal, insurance, administration | Elapsed Sep 15 insurance warning pending; Sep 28 CAL, pre-Oct 22 mentoring, Oct 12 drop and Nov 13 withdrawal deadlines.
+events/fall-2026-administrative-deadlines.md | registration, add, drop, withdrawal, administration | Sep 28 CAL, pre-Oct 22 mentoring, Oct 12 drop and Nov 13 withdrawal deadlines.
 events/2026-09-17-homewood-flu-clinic.md | flu clinic, shriver, vaccination, compliance | Homewood flu clinic Sep 17, 10 AM-6 PM; university submission deadline Nov 20; keep follow-up after clinic.
 events/fall-2026-lads-pilot-sessions.md | linear algebra, lads, pilot, study group | PILOT openings announced Sep 10: Mondays 8-9:30 PM or Tuesdays 6:30-8 PM; first come, first served.
 events/fall-2026-lads-notetaking-opportunity.md | linear algebra, notes, stipend, sds | SDS seeks an EN.553.295.01 notetaker; end-of-course stipend, amount and cutoff unspecified.
-events/2026-10-27-dsai-symposium.md | dsai, ai, research, posters, symposium | DSAI symposium Oct 27 at Homewood; poster abstracts due Sep 16, acceptance notices Oct 12.
+events/2026-10-27-dsai-symposium.md | dsai, ai, research, posters, symposium | DSAI symposium Oct 27 at Homewood; poster window closed, acceptance notices Oct 12.
 events/2026-09-18-20-hophacks.md | hophacks, hackathon, coding, workload | HopHacks Sep 18-20 at Homewood; apply if interested and front-load Sep 18 math deadlines.
-events/2026-09-16-29-freshman-council-elections.md | freshman council, elections, sga, info sessions | Candidate sessions Sep 16/17/18; eligibility forms Sep 20 at 11:59 PM; voting Sep 28-29.
+events/2026-09-16-29-freshman-council-elections.md | freshman council, elections, sga, info sessions | Remaining candidate sessions Sep 17/18; eligibility forms Sep 20 at 11:59 PM; voting Sep 28-29.
 events/2026-10-06-blue-jay-dialogue-fund.md | dialogue, innovation fund, grant, student groups | Collaborative student dialogue grant up to $10,000; applications Oct 6, coinciding with LADS midterm.
 events/2027-01-04-22-jay-term-career-treks.md | jay term, finance, new york, apl, career trek, application | January 2027 Finance in New York and APL tracks; applications Oct 6; selection and logistics unknown.
-events/2026-09-awm-events-and-mentoring.md | awm, math journey, mentoring, lunch, practice talks | Math Journey Sep 16 6-7 PM; lunch Sep 23; practice talks Sep 24; mentoring sign-ups during September.
-events/2026-09-16-hopopps-drop-in.md | hopopps, student profile, financial support, drop in | Optional HopOpps profile help Sep 16, 11 AM-2 PM, BSC 210B; bring laptop, RSVP through announcement.
+events/2026-09-awm-events-and-mentoring.md | awm, mentoring, lunch, practice talks | Welcome lunch Sep 23; practice talks Sep 24; mentoring sign-ups during September.
 events/2026-10-02-corotis-ai-data-science-lecture.md | corotis, ai, machine learning, statistics, lecture | Optional AI/data-science lecture Oct 2, 12:30-1:30 PM; RSVP reception; conflicts with academic crunch.
-events/fall-2026-financial-wellness-series.md | financial wellness, webinars, investing, ai, scams | Optional webinars Oct 14, Nov 9, and Dec 7; session times unconfirmed.
+events/fall-2026-financial-wellness-series.md | financial wellness, fli, showcase, webinars, investing, ai, scams | FLI Financial Showcase Sep 30 at 6 PM; optional webinars Oct 14, Nov 9, and Dec 7.
 
 events/2026-09-30-commercialization-academy.md | jhtv, commercialization, paid fellowship, smile, application | Newer announcement says apply by Sep 30 (older Sep 20 conflict); earlier interviews Oct 1-2 require live-posting verification.
 events/2026-09-21-25-consulting-industry-series.md | consulting, career, case interviews, mentoring | Optional consulting series announced Sep 21-25; supplied sessions run Sep 21-24; protect Sep 25 math deadline.
 events/2026-10-17-hopkins-talent-show.md | talent show, performance, piano, music, shriver | Hopkins Talent Show Oct 17 at 7 PM; performer submissions due Oct 4, time unspecified.
+events/2026-09-23-hop-talks-public-art.md | hop talks, public art, baltimore, history, dialogue | Hop Talks discussion Sep 23, 3-5 PM, BMA Sculpture Garden; RSVP through Hopkins Groups.
