@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-17
+last_updated: 2026-09-18
 timezone: America/New_York
-start_date: 2026-09-17
+start_date: 2026-09-18
 end_date: 2026-09-29
 ---
 
@@ -11,7 +11,6 @@ end_date: 2026-09-29
 
 | Date | Milestone (Eastern) |
 |---|---|
-| Sep 17, 5-6 PM | Candidate information session 2, Gilman 50 |
 | Sep 18, 7-8 PM | Candidate information session 3, online; link supplied after registration |
 | Sep 20, 11:59 PM | Eligibility forms due |
 | Sep 21, 5 PM | Eligibility email and campaigning start |
