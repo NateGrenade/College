@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-18
+last_updated: 2026-09-19
 timezone: America/New_York
-start_date: 2026-09-18
+start_date: 2026-09-20
 end_date: 2026-09-29
 ---
 
@@ -11,13 +11,12 @@ end_date: 2026-09-29
 
 | Date | Milestone (Eastern) |
 |---|---|
-| Sep 18, 7-8 PM | Candidate information session 3, online; link supplied after registration |
 | Sep 20, 11:59 PM | Eligibility forms due |
 | Sep 21, 5 PM | Eligibility email and campaigning start |
 | Sep 28, 11 AM | Voting opens |
 | Sep 29, 5 PM | Voting closes |
 
-- **Action:** To run, attend one of the three information sessions and submit the eligibility form; register through Hopkins Groups. Contact CSE if extenuating circumstances prevent attendance.
+- **Action:** If you attended a required information session and intend to run, submit the eligibility form by September 20 at 11:59 PM. If no session was attended, contact CSE about extenuating circumstances; candidacy eligibility is not guaranteed.
 - **Why it matters:** First-year student representation; no prior experience required.
 - **Uncertainties:** Candidacy, registration, and participation are unknown; no session registration cutoff supplied.
 - **Cleanup:** Trim expired milestones while preserving later sessions, form deadlines, and voting.

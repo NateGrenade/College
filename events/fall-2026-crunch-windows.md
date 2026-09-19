@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-18
+last_updated: 2026-09-19
 ---
 
 # Fall 2026 — crunch windows
@@ -22,24 +22,30 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 18
+## Near-term optional commitments — reviewed September 19
 
-- **Sep 18: Homewood career fair, 10 AM-4 PM.** Overlaps both math lectures and both math deadlines; preserve submission time.
 - **Sep 30: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. A newer announcement moved the listed deadline from Sep 20 to Sep 30; verify the live posting. Earlier material lists interviews Oct 1-2, adding a possible Window A conflict.
 - **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
 - **Oct 2, 12:30-1:30 PM: Corotis AI/data-science lecture.** Optional; same-day draft and tentative exam take precedence. Ends at LADS lecture start.
-- **Sep 18-20: HopHacks.** If attending, complete LADS HW3 and HDM Pset 2 before the Sep 18 opening; both assignments are due that Friday. Registration is not established.
+- **Sep 18-20: HopHacks.** Ongoing through Sunday. If participating, preserve time for the September 22 Writing Research Plan and September 25 math deadlines.
 - **Nov 1-3: NASEC (application window closed Sep 17).** If selected, the conference ends only three days before the Nov 6 triple deadline and one week before the Nov 10 LADS midterm; front-load that work before traveling. Application and selection are not established.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
 
-These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. Micheli's September 15 reminder confirms LADS HW3 is due Friday night, September 18; the weekend deadlines for HW1-2 were start-of-term exceptions. It also reconfirms that the office-hours visit is due October 2 with no exceptions. Canvas confirms Sep 18/25/30 and Oct 9 HDM pset dates, without cutoff times; HDM exam dates remain tentative. World Prehistory coverage remains incomplete.
+These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. LADS HW3 has a September 19 Gradescope submission receipt. Discrete Pset 2 completion remains unverified because no receipt is visible in the connected Gmail. HW4 is posted and due September 25 at 11:59 PM; all but its third page use material already covered as of September 18. The meaningful LADS office-hours visit remains due October 2 with no exceptions. Canvas confirms Sep 25/30 and Oct 9 HDM pset dates, without cutoff times; HDM exam dates remain tentative. World Prehistory coverage remains incomplete.
 
 ## Anthropology debate options — unselected
 
 Nathan supplied three possible group-debate dates on September 17: **October 1, November 5, or December 10**. These are alternatives, not three assignments or a confirmed selection. November 5 was recommended, contingent on avoiding NASEC and preparing early (suggested research/outline target October 25). October 1 precedes the October 2 pileup; December 10 precedes two math submissions and finals preparation. Exact time, signup cutoff, rubric, and grade weight remain unverified.
 
 - **November 4, 4:30-6 PM: RISE@APL information session.** Optional; adds pressure immediately before a possible November 5 debate and November 6 triple deadline.
+
+## Immediate bridge — September 19-25
+
+- **Tue Sep 22, noon:** PWE individual Research Plan. Canvas requires an individual file or link submission.
+- **Thu Sep 24:** HDM discussion participation and Wall Street Internship Academy application deadline.
+- **Fri Sep 25:** HDM Pset 3 and LADS HW4. HW4 is already posted; begin before the weekday.
+- **Mon Sep 21, 10 AM-6 PM:** Optional Homewood flu clinic in Levering Great Hall; November 20 is the compliance deadline.
 
 ## Window A — 2026-09-28 to 2026-10-11 — the peak
 
@@ -62,7 +68,7 @@ week out, which puts sheet-writing in the same preparation window as Oct 2. Star
   Reserve time after checking routine work and White Paper preparation.
 - Weekend of **Oct 3-4** — prioritize Midterm 1 review while also allowing
   for White Paper revisions and the Oct 9-11 assignments.
-- Do the **LADS office-hours visit in mid-September**. It is worth 0.5% for
+- Do the **LADS office-hours visit during the week of September 21**. It is worth 0.5% for
   a meaningful visit; leaving it to Oct 2 adds another task to an already
   crowded day.
 
