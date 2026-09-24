@@ -1,7 +1,7 @@
 ---
 type: event
 status: follow-up
-last_updated: 2026-09-19
+last_updated: 2026-09-24
 timezone: America/New_York
 event_date: 2026-09-21
 follow_up_deadline: 2026-11-20
@@ -9,8 +9,8 @@ follow_up_deadline: 2026-11-20
 
 # Homewood flu clinic and submission deadline
 
-- **Next clinic:** September 21, 2026, 10 AM-6 PM Eastern, Levering Great Hall, Homewood. Appointments or walk-ins accepted.
-- **Action:** If vaccination remains outstanding, [book an appointment](https://booking.vaxpro.com/hopkins) or walk in. The on-site vaccine is provided at no cost and documentation is uploaded automatically.
+- **Campus clinics tracked here:** September 17 at Shriver Hall and September 21 at Levering Great Hall; both have ended.
+- **Action:** If vaccination remains outstanding, use the current Student Health instructions to arrange it and submit documentation by November 20. Do not rely on the expired clinic booking link.
 - **Requirement:** The September 10 student notice says all JHU students must receive a seasonal flu vaccine and gives November 20 as the submission deadline. Check current university instructions for individual applicability or exceptions.
 - **Why it matters:** Convenient campus access ahead of the university compliance deadline.
 - **Uncertainties:** No individual vaccination, appointment, exemption, or completion status is recorded.

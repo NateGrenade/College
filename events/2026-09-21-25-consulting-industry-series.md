@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-16
+last_updated: 2026-09-24
 timezone: America/New_York
-start_date: 2026-09-21
+start_date: 2026-09-24
 end_date: 2026-09-25
 ---
 
@@ -11,20 +11,13 @@ end_date: 2026-09-25
 
 | Date | Session (Eastern campus-local interpretation) |
 |---|---|
-| Sep 21, noon | What is Consulting? |
-| Sep 21, 4:30 PM | Consulting Sampler |
-| Sep 21, 6 PM | Case Prep with Deloitte |
-| Sep 22, time unspecified | Life Sciences Consulting Chats with Qral Group |
-| Sep 22, 6 PM | Pathways To, Through & Beyond Consulting |
-| Sep 23, 5:30 PM | Foundations of Case Interviews |
-| Sep 23, 7 PM | Acing Consulting Interviews |
 | Sep 24, 6 PM | Consulting Mentor Match |
 
-- **Action:** Review individual listings and register through Life Design Lab/Handshake.
+- **Action:** If useful and coursework is under control, check the live listing and register for the September 24 Mentor Match.
 - **Why it matters:** Optional analytical-career exploration and interview preparation.
 - **Preparation:** Choose only useful sessions and preserve work time for the September 25 math deadlines.
 - **Uncertainties:** The series is announced through September 25, but the supplied session list ends September 24. Locations, end times, explicit timezone labels, eligibility, registration cutoffs, any September 25 session, and attendance are unconfirmed.
-- **Cleanup:** Keep until final session; trim expired dates.
+- **Cleanup:** Remove after September 25 unless a late-added September 25 session is confirmed.
 
 ## Source
 

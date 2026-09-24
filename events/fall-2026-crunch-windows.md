@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-19
+last_updated: 2026-09-24
 ---
 
 # Fall 2026 — crunch windows
@@ -22,12 +22,11 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 19
+## Near-term optional commitments — reviewed September 24
 
 - **Sep 30: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. A newer announcement moved the listed deadline from Sep 20 to Sep 30; verify the live posting. Earlier material lists interviews Oct 1-2, adding a possible Window A conflict.
 - **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
 - **Oct 2, 12:30-1:30 PM: Corotis AI/data-science lecture.** Optional; same-day draft and tentative exam take precedence. Ends at LADS lecture start.
-- **Sep 18-20: HopHacks.** Ongoing through Sunday. If participating, preserve time for the September 22 Writing Research Plan and September 25 math deadlines.
 - **Nov 1-3: NASEC (application window closed Sep 17).** If selected, the conference ends only three days before the Nov 6 triple deadline and one week before the Nov 10 LADS midterm; front-load that work before traveling. Application and selection are not established.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
@@ -40,12 +39,12 @@ Nathan supplied three possible group-debate dates on September 17: **October 1, 
 
 - **November 4, 4:30-6 PM: RISE@APL information session.** Optional; adds pressure immediately before a possible November 5 debate and November 6 triple deadline.
 
-## Immediate bridge — September 19-25
+## Immediate bridge — September 24-25
 
-- **Tue Sep 22, noon:** PWE individual Research Plan. Canvas requires an individual file or link submission.
-- **Thu Sep 24:** HDM discussion participation and Wall Street Internship Academy application deadline.
-- **Fri Sep 25:** HDM Pset 3 and LADS HW4. HW4 is already posted; begin before the weekday.
-- **Mon Sep 21, 10 AM-6 PM:** Optional Homewood flu clinic in Levering Great Hall; November 20 is the compliance deadline.
+- **Thu Sep 24, 1:30 PM:** PWE individual Research Dossier Analysis. Canvas requires an individual copy of the supplied Google Doc; complete it before class and use the Sep 22 Research Plan comment as feedback where relevant.
+- **Thu Sep 24:** HDM discussion participation and Wall Street Internship Academy application deadline; the application cutoff time is unspecified.
+- **Fri Sep 25:** HDM Pset 3 (cutoff time unspecified) and LADS HW4 at 11:59 PM. HW4 is already posted; finish substantial work Thursday.
+- The Sep 22 PWE Research Plan is graded and has an instructor comment; the score and comment text are not exposed in email.
 
 ## Window A — 2026-09-28 to 2026-10-11 — the peak
 

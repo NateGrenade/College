@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-19
+last_updated: 2026-09-24
 timezone: America/New_York
-start_date: 2026-09-20
+start_date: 2026-09-28
 end_date: 2026-09-29
 ---
 
@@ -11,15 +11,13 @@ end_date: 2026-09-29
 
 | Date | Milestone (Eastern) |
 |---|---|
-| Sep 20, 11:59 PM | Eligibility forms due |
-| Sep 21, 5 PM | Eligibility email and campaigning start |
 | Sep 28, 11 AM | Voting opens |
 | Sep 29, 5 PM | Voting closes |
 
-- **Action:** If you attended a required information session and intend to run, submit the eligibility form by September 20 at 11:59 PM. If no session was attended, contact CSE about extenuating circumstances; candidacy eligibility is not guaranteed.
+- **Action:** Vote between September 28 at 11 AM and September 29 at 5 PM if desired. Candidate eligibility and campaigning deadlines have passed.
 - **Why it matters:** First-year student representation; no prior experience required.
 - **Uncertainties:** Candidacy, registration, and participation are unknown; no session registration cutoff supplied.
-- **Cleanup:** Trim expired milestones while preserving later sessions, form deadlines, and voting.
+- **Cleanup:** Retain through voting close on September 29.
 
 ## Source
 
