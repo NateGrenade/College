@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 timezone: America/New_York
-start_date: 2026-09-24
+start_date: 2026-09-25
 end_date: 2026-09-30
 ---
 
@@ -11,10 +11,9 @@ end_date: 2026-09-30
 
 | Date | Event (Eastern, campus-local interpretation) |
 |---|---|
-| Sep 24, 5-6 PM | Monthly Practice Talks; location TBD |
 | Throughout September | Mentor/mentee sign-ups; exact closing timestamp not supplied |
 
-- **Action:** Use the AWM newsletter for the practice-talk location/presentation signup and the mentor/mentee form. [Chapter](https://sites.google.com/view/awmjhu).
+- **Action:** Use the AWM newsletter for the mentor/mentee form; the September 24 talks have ended. [Chapter](https://sites.google.com/view/awmjhu).
 - **Why it matters:** Math community and mentoring for course selection, REUs, internships, and graduate study.
 - **Mentoring:** Program launches next month; pairs meet at least twice per semester.
 - **Recurring:** Practice Talks are announced for the last Thursday of each month, 5-6 PM; verify holiday exceptions and later dates.

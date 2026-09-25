@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-24
+last_updated: 2026-09-25
 timezone: America/New_York
-start_date: 2026-09-24
+start_date: 2026-09-25
 end_date: 2026-09-25
 ---
 
@@ -11,9 +11,9 @@ end_date: 2026-09-25
 
 | Date | Session (Eastern campus-local interpretation) |
 |---|---|
-| Sep 24, 6 PM | Consulting Mentor Match |
+| Sep 25 | Series end date only; no specific session confirmed |
 
-- **Action:** If useful and coursework is under control, check the live listing and register for the September 24 Mentor Match.
+- **Action:** The announced September 24 Mentor Match has ended. Check the live listing only if seeking a possible September 25 session; do not assume one exists.
 - **Why it matters:** Optional analytical-career exploration and interview preparation.
 - **Preparation:** Choose only useful sessions and preserve work time for the September 25 math deadlines.
 - **Uncertainties:** The series is announced through September 25, but the supplied session list ends September 24. Locations, end times, explicit timezone labels, eligibility, registration cutoffs, any September 25 session, and attendance are unconfirmed.
