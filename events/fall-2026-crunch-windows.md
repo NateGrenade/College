@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-25
+last_updated: 2026-09-26
 ---
 
 # Fall 2026 — crunch windows
@@ -22,7 +22,7 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 25
+## Near-term optional commitments — reviewed September 26
 
 - **Sep 30: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. A newer announcement moved the listed deadline from Sep 20 to Sep 30; verify the live posting. Earlier material lists interviews Oct 1-2, adding a possible Window A conflict.
 - **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
@@ -33,7 +33,7 @@ so this file is provisional on all three counts.
 - **Oct 6: Blue Jay Dialogue Fund application cutoff.** If pursuing a collaborative proposal, draft ahead of Window A rather than adding it to midterm day.
 - PILOT Tuesday sessions were offered for **6:30-8 PM**, ending exactly at the listed **8 PM** LADS midterm start on Oct 6 and Nov 10; confirm exam-week arrangements if enrolled.
 
-These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. LADS HW3 has a September 19 Gradescope submission receipt. Discrete Pset 2 completion remains unverified because no receipt is visible in the connected Gmail. HW4 is posted and due September 25 at 11:59 PM; all but its third page use material already covered as of September 18. The meaningful LADS office-hours visit remains due October 2 with no exceptions. Canvas confirms Sep 25/30 and Oct 9 HDM pset dates, without cutoff times; HDM exam dates remain tentative. World Prehistory coverage remains incomplete.
+These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files. The September 25 math deadline has closed; individual submission timing and any grading follow-up are intentionally left out of this public planning file. HW5 is posted and due October 2 at 11:59 PM. The September 25 instructor message confirms Midterm 1 on October 6, covering Lectures 1-12 and HW1-HW5; review problems are expected around midweek. The meaningful LADS office-hours visit remains due October 2 with no exceptions. Canvas confirms September 30 and October 9 HDM pset dates, without cutoff times; HDM Exam 1 remains tentative. World Prehistory coverage remains incomplete.
 
 ## Anthropology debate — confirm date urgently
 
@@ -41,36 +41,37 @@ The September 24 instructor announcement establishes a **Debate #1 — Replaceme
 
 - **November 4, 4:30-6 PM: RISE@APL information session.** Optional; adds pressure immediately before a possible November 5 debate and November 6 triple deadline.
 
-## Immediate bridge — September 25
+## Weekend setup — September 26-27
 
-- **Fri Sep 25:** HDM Pset 3 (Canvas date confirmed, cutoff time unspecified) and LADS HW4 at 11:59 PM. Verify the Discrete cutoff first; no submission receipt for either was found in the connected mailbox as of the morning review. Absence of email is not proof of non-submission.
-- PWE Research Dossier Analysis and HDM week-4 discussion received grading notifications September 24; do not carry them forward as unsubmitted tasks. Scores are not exposed in email.
-- The Sep 22 PWE Research Plan is graded and has an instructor comment; use feedback for the White Paper.
-- The September 24 Wall Street Internship Academy application deadline has elapsed. A once-only notification is queued; the October 9 Finance 101 opportunity remains future.
+- **Tue Sep 29, 12:30 PM:** Newly visible PWE team checkpoint: submit a hyperlink to the White Paper introduction and problem section. The Canvas prompt wants a deliberately rough first effort and discourages editing tools at this stage.
+- **Wed Sep 30:** HDM Pset 4; cutoff time is not exposed on Canvas. Start Saturday because the tentative Exam 1 follows Friday.
+- **Fri Oct 2:** PWE White Paper rough draft at noon, LADS HW5 at 11:59 PM, LADS office-hours requirement, and tentative HDM Exam 1.
+- **Tue Oct 6, 8-9 PM:** LADS Midterm 1 is instructor-confirmed; coverage is Lectures 1-12 and HW1-HW5. One handwritten, one-sided letter-size sheet; no calculators. Review problems are expected around the middle of the week.
+- **Anthropology:** Debate #1 date still unconfirmed. Continue preparing as though October 1 is possible until Canvas or the instructor establishes otherwise.
 
 ## Window A — 2026-09-28 to 2026-10-11 — the peak
 
 | Date | Items |
 |---|---|
+| Tue 09-29 | PWE team introduction/problem-section hyperlink, 12:30 PM |
 | Wed 09-30 | HDM Pset 4 |
 | Thu 10-01 | Possible Anthropology Debate #1 date — unconfirmed; verify Canvas |
 | **Fri 10-02** | **HDM Exam 1 (tentative)** + PWE White Paper rough draft + **LADS HW 5** + LADS office-hours deadline |
-| **Tue 10-06** | **LADS Midterm 1 (20%)**, 8:00-9:00pm |
+| **Tue 10-06** | **LADS Midterm 1 (20%)**, 8:00-9:00pm; Lectures 1-12 and HW1-HW5 |
 | Fri 10-09 | HDM Pset 5 |
 | **Sat 10-10** | **PWE White Paper (Team), 25%** |
 | Sun 10-11 | LADS HW 6 |
 
-Nine dated academic items in twelve days, containing a 20% exam and a 25% paper, plus a possible October 1 debate whose date is not confirmed.
+Ten dated academic items in twelve days, containing a 20% exam and a 25% paper, plus a possible October 1 debate whose date is not confirmed.
 
 **The conflict:** Micheli recommends starting the Midterm 1 cheat sheet a
 week out, which puts sheet-writing in the same preparation window as Oct 2. Start earlier to reduce that overlap.
 
 **Plan:**
-- Weekend of **Sep 26-27** — aim to draft the Midterm 1 cheat sheet early.
-  Reserve separate blocks for Discrete Exam 1, the White Paper, and Anthropology debate preparation if October 1 is confirmed.
+- Weekend of **Sep 26-27** — complete the PWE introduction/problem-section checkpoint, begin HDM Pset 4 and Exam 1 review, make a first pass through LADS HW5, and draft the Midterm 1 cheat sheet from Lectures 1-12. Reserve a separate Anthropology block while the October 1 possibility remains unresolved.
 - Weekend of **Oct 3-4** — prioritize Midterm 1 review while also allowing
   for White Paper revisions and the Oct 9-11 assignments.
-- Do the **LADS office-hours visit today if possible, or early in the week of September 28**. It is worth 0.5% for
+- Do the **LADS office-hours visit early in the week of September 28**. It is worth 0.5% for
   a meaningful visit; leaving it to Oct 2 adds another task to an already
   crowded day.
 
