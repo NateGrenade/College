@@ -1,7 +1,7 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-16
+last_updated: 2026-09-28
 timezone: America/New_York
 event_date: 2026-10-17
 submission_deadline: 2026-10-04
@@ -17,4 +17,4 @@ submission_deadline: 2026-10-04
 
 ## Source
 
-Leadership Engagement & Experiential Development, “The Stage is Calling! Talent Show Submissions Now Open!”, September 15, 2026. Private access and tracking links omitted.
+Leadership Engagement & Experiential Development, “The Stage is Calling! Talent Show Submissions Now Open!”, September 15, 2026; deadline reminder received September 27, 2026. Private access and tracking links omitted.
