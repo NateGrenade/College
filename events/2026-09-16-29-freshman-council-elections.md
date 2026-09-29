@@ -1,7 +1,7 @@
 ---
 type: event
-status: upcoming
-last_updated: 2026-09-24
+status: ongoing
+last_updated: 2026-09-29
 timezone: America/New_York
 start_date: 2026-09-28
 end_date: 2026-09-29
@@ -11,14 +11,14 @@ end_date: 2026-09-29
 
 | Date | Milestone (Eastern) |
 |---|---|
-| Sep 28, 11 AM | Voting opens |
-| Sep 29, 5 PM | Voting closes |
+| Sep 28, 2 PM | Voting opened |
+| Sep 29, 9 PM | Voting closes |
 
-- **Action:** Vote between September 28 at 11 AM and September 29 at 5 PM if desired. Candidate eligibility and campaigning deadlines have passed.
-- **Why it matters:** First-year student representation; no prior experience required.
-- **Uncertainties:** Candidacy, registration, and participation are unknown; no session registration cutoff supplied.
-- **Cleanup:** Retain through voting close on September 29.
+- **Action:** Vote by 9 PM on September 29 if desired. Candidate eligibility and campaigning deadlines have passed.
+- **Why it matters:** First-year student representation.
+- **Uncertainties:** Participation and any write-in campaign are unknown.
+- **Cleanup:** Remove after voting closes on September 29.
 
 ## Source
 
-Committee on Student Elections, “Freshman Class Council Elections & Information Sessions,” September 10, 2026. Private meeting links are intentionally omitted.
+Committee on Student Elections, “Freshman Class Council Elections & Information Sessions,” September 10, 2026; updated voting notice received September 28, 2026. Private ballot and tracking links omitted.

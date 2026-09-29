@@ -1,21 +1,21 @@
 ---
 type: event
-status: follow-up
-last_updated: 2026-09-24
+status: upcoming
+last_updated: 2026-09-29
 timezone: America/New_York
-event_date: 2026-09-21
+event_date: 2026-09-30
 follow_up_deadline: 2026-11-20
 ---
 
 # Homewood flu clinic and submission deadline
 
-- **Campus clinics tracked here:** September 17 at Shriver Hall and September 21 at Levering Great Hall; both have ended.
-- **Action:** If vaccination remains outstanding, use the current Student Health instructions to arrange it and submit documentation by November 20. Do not rely on the expired clinic booking link.
-- **Requirement:** The September 10 student notice says all JHU students must receive a seasonal flu vaccine and gives November 20 as the submission deadline. Check current university instructions for individual applicability or exceptions.
-- **Why it matters:** Convenient campus access ahead of the university compliance deadline.
+- **Next clinic:** Wednesday, September 30, 10 AM-6 PM Eastern, Bloomberg Student Center, MPR 204. Walk-ins and appointments are accepted.
+- **Action:** If vaccination remains outstanding, attend the clinic or use current Student Health instructions to arrange it. Vaccination information from an on-site clinic is uploaded automatically; otherwise submit documentation by November 20.
+- **Requirement:** Student Health says all JHU students must receive a seasonal flu vaccine. Check current university instructions for individual applicability or exceptions.
+- **Why it matters:** Convenient campus access ahead of the compliance deadline.
 - **Uncertainties:** No individual vaccination, appointment, exemption, or completion status is recorded.
-- **Cleanup:** Retain through the November 20 follow-up deadline.
+- **Cleanup:** After September 30, remove the clinic details but retain the November 20 follow-up.
 
 ## Source
 
-Student Health & Well-Being, “Flu clinic at Homewood Levering- Great Hall on 9/21/26, 10 am to 6 pm,” September 18, 2026; earlier Shriver clinic notice, September 10, 2026.
+Student Health & Well-Being, September 28 clinic notice; earlier Homewood clinic notices from September 10 and 18, 2026. Private tracking information omitted.

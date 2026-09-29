@@ -1,9 +1,9 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-17
+last_updated: 2026-09-29
 timezone: America/New_York
-start_date: 2026-09-28
+start_date: 2026-10-12
 end_date: 2026-11-13
 ---
 
@@ -13,14 +13,13 @@ General published deadlines; these do not establish any individual's completion,
 
 | Date | Deadline / action |
 |---|---|
-| Sep 28, 4:30 PM | Applicable WSE CAL enrollment and credit/grading changes close. |
 | Before Oct 22 | Complete faculty-mentor meeting before Fall Break; required before the advisor can release the registration hold. First-year students also need a second meeting before term end (exact date unspecified). |
 | Oct 12, 4:30 PM | Full-term course drop deadline. |
 | Nov 13, 4:30 PM | Full-term withdrawal or grading-method change deadline. |
 
 **Why it matters:** Registration cutoffs and administrative submissions can have consequences beyond class assignments. Check the relevant portal and current office instructions before acting.
 
-**Cleanup:** Expired Sep 10-11 rows were removed on Sep 12 after their once-only warnings were delivered. Preserve later deadlines. The Sep 7 tuition deadline was already flagged in the Sep 10 morning brief; no individual completion, payment, housing, or insurance status is recorded here.
+**Cleanup:** The Sep 28 CAL row was removed on Sep 29 after being included in the Sep 28 brief. Expired Sep 10-11 rows were removed on Sep 12 after their once-only warnings were delivered. Preserve later deadlines. The Sep 7 tuition deadline was already flagged in the Sep 10 morning brief; no individual completion, payment, housing, or insurance status is recorded here.
 
 ## Cleanup notification checkpoint
 
