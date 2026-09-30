@@ -1,7 +1,7 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-15
+last_updated: 2026-09-30
 timezone: America/New_York
 event_date: 2026-10-02
 ---
@@ -13,7 +13,7 @@ event_date: 2026-10-02
 - **Speaker/topic:** Fred Mannering, integrating AI/ML and traditional data science in highway safety research.
 - **Action:** Register through the WSE announcement; reception requires RSVP.
 - **Why it matters:** Applied statistics, behavioral modeling, and AI research exposure.
-- **Planning:** Same day as tentative Discrete Exam 1, Writing draft (noon), LADS HW5, and office-hours deadline. Ends exactly at LADS lecture start; allow travel or skip.
+- **Planning:** Same day as confirmed Discrete Exam 1, Writing draft safe target (noon; unresolved Oct 2/3 conflict), LADS HW5, and office-hours deadline. Ends exactly at LADS lecture start; allow travel or skip.
 - **Uncertainties:** RSVP cutoff, registration, and attendance unknown.
 
 ## Source

@@ -1,7 +1,7 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-28
+last_updated: 2026-09-30
 timezone: America/New_York
 deadline: 2026-09-30
 ---
@@ -17,4 +17,4 @@ deadline: 2026-09-30
 
 ## Source
 
-Student Financial Support / HopOpps, “Take a few minutes now to complete your HopOpps Student Profile,” received September 27, 2026. Private tracking information omitted.
+Student Financial Support / HopOpps, “Take a few minutes now to complete your HopOpps Student Profile,” received September 27, 2026; reminder September 29 reconfirms September 30 priority consideration. Private tracking information omitted.
