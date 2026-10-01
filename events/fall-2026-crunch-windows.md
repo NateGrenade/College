@@ -2,7 +2,7 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-09-30
+last_updated: 2026-10-01
 ---
 
 # Fall 2026 — crunch windows
@@ -22,12 +22,12 @@ so this file is provisional on all three counts.
 
 ---
 
-## Near-term optional commitments — reviewed September 30
+## Near-term optional commitments — reviewed October 1
 
-- **Sep 30: Commercialization Academy application.** Optional paid 8-10-hour/week fellowship. A newer announcement moved the listed deadline from Sep 20 to Sep 30; verify the live posting. Earlier material lists interviews Oct 1-2, adding a possible Window A conflict.
-- **Sep 30: HopOpps scholarship-profile priority deadline.** Completing the Awarded profile by this date gives priority consideration for donor-funded scholarship matching; submission is not established. It is a short financial-aid task, but it should not displace exam or assignment work.
+- **Commercialization Academy:** The September 30 application date has passed; application status is unknown. Previously listed interviews run October 1-2, subject to live-posting verification.
+- **HopOpps:** The September 30 priority-consideration date has passed; completion is unknown. Because it was described as a priority date rather than a final cutoff, check Awarded promptly if still interested.
 - **Oct 6: Jay Term career-trek applications.** Finance in New York accepts first-years. Draft before Oct 2; do not leave this for midterm day. January travel is conditional on selection.
-- **Sep 30-Oct 2: Remaining Tech Industry Series.** Salesforce recruiter workshop Oct 1, 5:30-6:30 PM at the Imagine Center; selected participants may advance to a HackerRank assessment. Optional; preserve exam preparation and Thursday 7-9 PM Discrete office hours.
+- **Oct 1-2: Remaining Tech Industry Series.** Salesforce recruiter workshop October 1, 5:30-6:30 PM at the Imagine Center; selected participants may advance to a HackerRank assessment. Optional and immediately precedes Discrete office hours.
 - **Oct 2: Wall Street and FLI Internship Academy applications.** A September 28 announcement extends the prior deadline to October 2; cutoff time remains unspecified. This is optional and collides with Window A.
 - **Oct 7, 8 PM: Salesforce innovation webinar.** Rescheduled from September 30; optional and now falls the evening after the LADS midterm.
 - **Oct 2, 12:30-1:30 PM: Corotis AI/data-science lecture.** Optional; same-day draft target and confirmed exam take precedence. Ends at LADS lecture start.
@@ -37,9 +37,9 @@ so this file is provisional on all three counts.
 
 These are optional opportunities, not additional course requirements. Source announcements are recorded in their individual event files.
 
-**Fresh academic updates (September 30):** Discrete TA Alex's September 29 announcement explicitly places the test on **Friday morning, October 2** and moves office hours to **Thursday, October 1, 7-9 PM** (location unspecified). This confirms the date previously marked tentative. LADS **Worksheet #6 is posted with 44 review problems**, mostly from past midterms. Instructors advise understanding theory and completing HW5 before attempting the review worksheet; completing all 44 is not presented as necessary. Canvas still lists the team **Single Blind WP Paragraph** for September 30 at **5 PM** (one clunky 150-300-word paragraph). The White Paper rough-draft conflict remains: imported Canvas calendar **October 3, all day**, versus older course reference **October 2, noon**. Use October 2 noon as a working target while checking the live assignment.
+**Fresh academic updates (October 1):** LADS HW5 received a class-wide 48-hour extension to **Sunday, October 4 at 11:59 PM**; the existing late policy shifts with it. The instructors say HW5 is especially relevant to Tuesday's midterm. They also advise attending the remaining classes because the new material reinforces tested concepts. Discrete Exam 1 remains confirmed for Friday morning. Two TA office-hour blocks are available Thursday: Alex **7-9 PM** and Ally **8-10 PM**; locations were not supplied in the email announcements. The PWE Single Blind paragraph was graded September 30, and feedback/comments were released for the introduction/problem section. The White Paper rough-draft conflict remains: imported Canvas calendar **October 3, all day**, versus older course reference **October 2, noon**. Use October 2 noon as a working target until the live assignment resolves it.
 
-The September 25 math deadline has closed; individual submission timing and any grading follow-up are intentionally left out of this public planning file. HW5 is posted and due October 2 at 11:59 PM. The September 25 instructor message confirms Midterm 1 on October 6, covering Lectures 1-12 and HW1-HW5; Worksheet #6 review problems were posted September 29. The meaningful LADS office-hours visit remains due October 2 with no exceptions. Canvas confirms September 30 and October 9 HDM pset dates, without cutoff times; HDM Exam 1 is confirmed for October 2 morning by the September 29 TA announcement. World Prehistory coverage remains incomplete.
+The September 25 math deadline has closed; individual submission timing and any grading follow-up are intentionally left out of this public planning file. HW5 is posted and now due October 4 at 11:59 PM after a class-wide 48-hour extension. The September 25 instructor message confirms Midterm 1 on October 6, covering Lectures 1-12 and HW1-HW5; Worksheet #6 review problems were posted September 29. The meaningful LADS office-hours visit remains due October 2 with no exceptions. Canvas confirms September 30 and October 9 HDM pset dates, without cutoff times; HDM Exam 1 is confirmed for October 2 morning by the September 29 TA announcement. World Prehistory coverage remains incomplete.
 
 ## Anthropology debate — confirm date urgently
 
@@ -47,20 +47,19 @@ The September 24 instructor announcement establishes a **Debate #1 — Replaceme
 
 - **November 4, 4:30-6 PM: RISE@APL information session.** Optional; adds pressure immediately before a possible November 5 debate and November 6 triple deadline.
 
-## Current-week setup — September 28-October 2
+## Current-week setup — October 1-6
 
-- **Wed Sep 30:** HDM Pset 4 (cutoff time not exposed), the PWE Single Blind paragraph at 5 PM, and the HopOpps priority deadline.
-- **Fri Oct 2 / Sat Oct 3 conflict:** The repository/course reference says PWE rough draft Friday at noon, while the imported Canvas calendar now shows Saturday as an all-day item. Verify live Canvas; plan for Friday noon. LADS HW5 remains due Friday at 11:59 PM, the LADS office-hours requirement is due Friday, and HDM Exam 1 is confirmed for Friday morning.
+- **Fri Oct 2 / Sat Oct 3 conflict:** The repository/course reference says PWE rough draft Friday at noon, while the imported Canvas calendar shows Saturday as an all-day item. Verify live Canvas; plan for Friday noon. The LADS office-hours requirement remains due Friday, and HDM Exam 1 is confirmed for Friday morning. HW5 has moved to Sunday, October 4 at 11:59 PM.
 - **Tue Oct 6, 8-9 PM:** LADS Midterm 1 is instructor-confirmed; coverage is Lectures 1-12 and HW1-HW5. One handwritten, one-sided letter-size sheet; no calculators. Worksheet #6 is available; review theory and finish HW5 before using it.
-- **Anthropology:** Debate #1 date still unconfirmed. Continue preparing as though October 1 is possible until Canvas or the instructor establishes otherwise.
+- **Anthropology:** Debate #1 date is still unconfirmed. October 1 remains only a planning possibility inferred from the group number, not a verified presentation date.
 
-## Window A — 2026-09-30 to 2026-10-11 — the peak
+## Window A — 2026-10-01 to 2026-10-11 — the peak
 
 | Date | Items |
 |---|---|
-| Wed 09-30 | HDM Pset 4 + PWE Single Blind paragraph, 5 PM |
 | Thu 10-01 | Possible Anthropology Debate #1 date — unconfirmed; verify Canvas |
-| **Fri 10-02** | **HDM Exam 1 (confirmed Friday morning)** + PWE rough-draft safe target (calendar conflict with Oct 3) + **LADS HW 5** + LADS office-hours deadline |
+| **Fri 10-02** | **HDM Exam 1 (confirmed Friday morning)** + PWE rough-draft safe target (calendar conflict with Oct 3) + LADS office-hours deadline |
+| Sun 10-04 | **LADS HW5**, 11:59 PM (48-hour class-wide extension) |
 | **Tue 10-06** | **LADS Midterm 1 (20%)**, 8:00-9:00pm; Lectures 1-12 and HW1-HW5 |
 | Fri 10-09 | HDM Pset 5 |
 | **Sat 10-10** | **PWE White Paper (Team), 25%** |
@@ -72,12 +71,10 @@ The remaining window includes a confirmed Discrete exam, a 20% LADS midterm, a 2
 week out, which puts sheet-writing in the same preparation window as Oct 2. Start earlier to reduce that overlap.
 
 **Plan:**
-- **Sep 30-Oct 1** — complete HDM Pset 4 and the Writing paragraph before Wednesday's cutoffs; prepare for Friday's confirmed Discrete exam and use Thursday 7-9 PM TA office hours if needed. Advance LADS HW5 and draft the Midterm 1 sheet from Lectures 1-12. Reserve an Anthropology block while the October 1 possibility remains unresolved.
-- Weekend of **Oct 3-4** — prioritize Midterm 1 review while also allowing
+- **Oct 1** — center the day on Friday's Discrete exam; use the 7-10 PM overlapping TA office-hour window for unresolved questions. Complete the LADS office-hours requirement if unfinished. Advance HW5 enough to reinforce midterm theory, but use the extension rather than sacrificing exam preparation. Verify the Anthropology debate date and the Writing draft cutoff.
+- Weekend of **Oct 3-4** — finish HW5 by Sunday 11:59 PM, then prioritize LADS Midterm 1 review while allowing for White Paper revisions and the October 9-11 assignments.
   for White Paper revisions and the Oct 9-11 assignments.
-- Do the **LADS office-hours visit early in the week of September 28**. It is worth 0.5% for
-  a meaningful visit; leaving it to Oct 2 adds another task to an already
-  crowded day.
+- Complete the **LADS office-hours visit by October 2**. It is worth 0.5% for a meaningful visit and the HW5 extension does not move this requirement.
 
 ---
 

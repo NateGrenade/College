@@ -1,7 +1,7 @@
 ---
 type: event
-status: upcoming
-last_updated: 2026-09-16
+status: application-deadline-passed-interviews-unverified
+last_updated: 2026-10-01
 timezone: America/New_York
 application_deadline: 2026-09-30
 end_date: 2026-10-02
@@ -11,13 +11,13 @@ end_date: 2026-10-02
 
 - **Apply by:** September 30, 2026; cutoff time not supplied in the newer announcement.
 - **Deadline reconciliation:** A September 14 Life Design Lab newsletter gave September 20 at 11:59 PM for SMILE position 12144. A newer September 15 Systems & Quantitative Engineering newsletter links the opportunity and says **September 30**. Treat September 30 as the current date, but verify the live application before relying on it.
-- **Action:** Review the linked posting and apply through SMILE; position number 12144 was supplied in the September 14 announcement.
+- **Action:** The listed application date has passed. If already applied, verify any interview communication. If not, check the live SMILE posting only if interested; no late consideration is confirmed.
 - **Commitment:** Paid fellowship, 8-10 hours/week, evaluating research commercialization, markets, technology, and outreach.
 - **Eligibility:** Current JHU students; U.S. citizenship or legal permanent residency required per the earlier detailed announcement.
 - **Next stage:** The earlier announcement listed virtual final-round interviews October 1-2; verify this unusually tight sequence against the live posting.
 - **Why it matters:** Hands-on analytical/business experience; substantial weekly work.
 - **Uncertainties:** Pay, fellowship dates/location, current cutoff time, application, eligibility, and selection unknown.
-- **Cleanup:** Preserve interview dates after the application deadline until they pass.
+- **Notification checkpoint:** The elapsed application date was flagged in the October 1 brief; remove after the October 1-2 interview window passes.
 
 ## Source
 

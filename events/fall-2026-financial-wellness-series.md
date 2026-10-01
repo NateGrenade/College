@@ -1,21 +1,21 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-09-17
+last_updated: 2026-10-01
 timezone: America/New_York
-start_date: 2026-09-30
+start_date: 2026-10-06
 end_date: 2026-12-07
 ---
 
 # Fall financial-wellness events
 
-- **Sep 30, 6 PM:** FLI Financial Showcase, Glass Pavilion; financial aid, banking, credit, and saving resources, with food and refreshments. RSVP through Hopkins Groups.
-- **Oct 14:** Investing 101.
+- **Oct 6, 6:30 PM:** Moving Off-Campus: Understanding Financial Aid, BSC; registration through Hopkins Groups.
+- **Oct 14, 5 PM:** Investing 101 webinar.
 - **Nov 9:** AI & Your Money.
 - **Dec 7:** Scams, Insurance & Protecting Your Money.
-- **Action:** RSVP for the September 30 showcase through Hopkins Groups; register for webinars through Student Financial Support events and check individual listings for times.
+- **Action:** Register for relevant sessions through Hopkins Groups or Student Financial Support and check individual listings for any changes.
 - **Why it matters:** Optional beginner financial education open to students, faculty, and staff.
-- **Uncertainties:** Session start/end times, registration cutoffs, and attendance unknown. The September session's 5 PM time does not establish later session times.
+- **Uncertainties:** Session start/end times, registration cutoffs, and attendance unknown. Times for the November and December sessions remain unspecified.
 - **Cleanup:** Retain through December 7; trim expired sessions.
 
 ## Source

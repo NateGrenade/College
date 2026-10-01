@@ -1,7 +1,7 @@
 ---
 type: event
-status: upcoming
-last_updated: 2026-09-30
+status: priority-deadline-passed
+last_updated: 2026-10-01
 timezone: America/New_York
 deadline: 2026-09-30
 ---
@@ -9,11 +9,12 @@ deadline: 2026-09-30
 # HopOpps scholarship-profile priority deadline
 
 - **Priority deadline:** Wednesday, September 30, 2026; cutoff time not supplied.
-- **Action:** Complete the Student Profile in Awarded/HopOpps, review the responses, then use **Confirm Changes and Submit**. Two to three sentences is sufficient for the long-form questions. An unfinished LinkedIn profile or résumé does not prevent submission.
+- **Action:** If the profile is still incomplete, check Awarded promptly. The email described September 30 as a priority-consideration date rather than a final cutoff, but later acceptance is not confirmed.
 - **Why it matters:** Completing the profile by September 30 gives priority consideration for matching with donor-funded scholarships. Selected students are expected to be notified in November.
 - **Status:** Profile completion and scholarship matching are not established.
 - **Uncertainties:** The email calls September 30 a priority-consideration date, not a stated final cutoff; award eligibility, selection, amount, and exact notification date are unknown.
 - **Access:** [Awarded / HopOpps](https://jhu.student.awardedsoftware.com/)
+- **Notification checkpoint:** The elapsed priority date was flagged in the October 1 brief; retain briefly because late profile acceptance may still be possible.
 
 ## Source
 
