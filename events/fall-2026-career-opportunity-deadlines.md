@@ -1,9 +1,9 @@
 ---
 type: opportunities
 status: upcoming
-last_updated: 2026-09-30
+last_updated: 2026-10-03
 timezone: America/New_York
-start_date: 2026-10-02
+start_date: 2026-10-04
 end_date: 2026-11-18
 ---
 
@@ -13,7 +13,6 @@ Optional leads from university-distributed announcements; forwarding does not es
 
 | Deadline / dates | Opportunity | Action and uncertainties |
 |---|---|---|
-| Oct 2, 11:59 PM, labeled EST by sender | Wall Street Guide full-ride scholarship competition | Open to freshmen, sophomores, and juniors; advertised award covers a $19,900 finance/consulting training program, not cash. Check terms and timezone on application. Separate from JHU's Wall Street Internship Academy. |
 | Oct 4, time unspecified | Racing Bulls F1 undergraduate placement 2027/28 | Review roles and eligibility via Life Design Lab; duration, overseas logistics, eligibility, and financial terms unverified. |
 | Oct 12, 11:59 PM, labeled EST by sender | Ladder Internships scholarship competition | Open to current/rising undergraduates; announcement offers selected startup internships with stipend and a $3,000 program scholarship. Verify fees, award terms, and timezone. |
 | Oct 22, time unspecified | Amerigattes LLC remote Data Analyst Intern | Review current posting for duties, compensation, eligibility, and application terms. |

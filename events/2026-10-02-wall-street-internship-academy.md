@@ -1,7 +1,7 @@
 ---
 type: event
-status: application-open
-last_updated: 2026-09-30
+status: deadline-passed-late-recourse-unverified
+last_updated: 2026-10-03
 timezone: America/New_York
 application_deadline: 2026-10-02
 ---
@@ -9,10 +9,11 @@ application_deadline: 2026-10-02
 # Wall Street Internship Academy deadline extension
 
 - **New deadline:** Friday, October 2, 2026; cutoff time not supplied. This supersedes the previously announced September 24 deadline.
-- **Action:** If interested, inspect the live application and submit before the deadline. The same notice also extends the FLI Internship Academy deadline to October 2.
+- **Action:** The listed deadline has passed. If interested and not submitted, ask Life Design Lab whether late consideration is possible; no late acceptance is confirmed. The same notice extended the FLI Internship Academy deadline to October 2.
 - **Why it matters:** Cohort-based preparation for competitive internships through industry-specific sessions, alumni/employer connections, and personalized support.
-- **Planning:** The extension collides with the confirmed October 2 Discrete exam, Writing rough-draft window, LADS HW5, and the LADS office-hours requirement. Apply only after protecting required academic work.
-- **Status/uncertainties:** Application, eligibility, submission, selection, exact cutoff time, and program schedule are not established.
+- **Planning:** Do not displace HW5 or Midterm 1 preparation for an unconfirmed late application.
+- **Status/uncertainties:** Application, eligibility, submission, late consideration, selection, exact cutoff time, and program schedule are not established.
+- **Notification checkpoint:** The elapsed deadline was flagged in the October 3 brief; retain briefly for possible late recourse, then remove.
 
 ## Source
 
