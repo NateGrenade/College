@@ -66,7 +66,7 @@ assignments/linear-algebra-data-science/midterm-1.md | linear algebra, lads, mid
 assignments/linear-algebra-data-science/midterm-2.md | linear algebra, lads, midterm 2, exam, not cumulative | Midterm 2 for Linear Algebra for Data Science, worth 20%, non-cumulative 8:00-9:00pm evening exam shared with LADE - due 2026-11-10, not-started, high priority.
 assignments/linear-algebra-data-science/final-exam.md | linear algebra, lads, final exam, cumulative, svd, pca | Final Exam for Linear Algebra for Data Science, worth 39% and cumulative (~30% core LA / 70% data science) - due 2026-12-16 2:00-5:00pm, not-started, high priority.
 assignments/linear-algebra-data-science/office-hours-requirement.md | linear algebra, lads, office hours, participation, 0.5% | Office hours attendance requirement for Linear Algebra for Data Science, worth 0.5% - due 2026-10-02, not-started, medium priority.
-events/fall-2026-crunch-windows.md | crunch, overlap, busy weeks, study plan, fall 2026, calendar | Oct 3-4 LADS review and HW5; Oct 6 LADS midterm in Remsen 1; Oct 9-11 Discrete, Writing, and LADS deadlines.
+events/fall-2026-crunch-windows.md | crunch, overlap, busy weeks, study plan, fall 2026, calendar | Oct 4 LADS HW5 and review; Oct 6 LADS midterm in Remsen 1; Oct 9-11 Discrete, Writing, and LADS deadlines.
 events/2026-11-01-03-nasec.md | nasec, naval academy, engineering conference, application | NASEC Nov 1-3 in Annapolis; application closed and outcome unverified; applicants without a decision should contact WSE Advising.
 events/fall-2026-administrative-deadlines.md | registration, add, drop, withdrawal, administration, mfa | Early-October SMS/voice MFA removal, pre-Oct 22 mentoring, Oct 12 course-drop, and Nov 13 withdrawal/grading-method deadlines.
 events/2026-09-17-homewood-flu-clinic.md | flu vaccine, vaccination, compliance, documentation | September clinic ended; arrange vaccination if outstanding and submit non-JHU documentation by Nov 20.
@@ -77,11 +77,10 @@ events/2026-10-06-blue-jay-dialogue-fund.md | dialogue, innovation fund, grant, 
 events/2027-01-04-22-jay-term-career-treks.md | jay term, finance, new york, apl, career trek, application | January 2027 Finance in New York and APL tracks; applications Oct 6; selection and logistics unknown.
 events/fall-2026-financial-wellness-series.md | financial wellness, off-campus aid, investing, ai, scams | Off-campus aid workshop Oct 6 at 6:30 PM; investing webinar Oct 14 at 5 PM; later sessions Nov 9 and Dec 7.
 
-events/2026-09-29-10-10-welcome-weeks.md | welcome weeks, field hockey, symphony | Optional Oct 3 field hockey and Oct 10 Hopkins Symphony events.
+events/2026-09-29-10-10-welcome-weeks.md | welcome weeks, symphony | Optional Hopkins Symphony event Oct 10 at Shriver Hall.
 events/2026-10-17-hopkins-talent-show.md | talent show, performance, piano, music, shriver, prizes | Hopkins Talent Show Oct 17 at 7 PM; performer submissions due Oct 4, time unspecified; prizes announced.
 events/2026-11-04-rise-apl-information-session.md | rise, apl, paid research, internship, information session | RISE@APL session Nov 4, 4:30-6 PM, Glass Pavilion; 2027 applications open, cutoff unspecified; register for session.
 events/2026-10-30-tech-internship-academy.md | technology, internship, career, ai project, summer 2027 | Tech Internship Academy applications close Oct 30, superseding Oct 31; six required Wednesday sessions Jan 27-Mar 10; open to first-years.
-events/2026-10-02-wall-street-internship-academy.md | wall street, finance, internship academy, application | Oct 2 deadline passed; submission unknown; ask Life Design Lab about late consideration if still interested.
 events/2026-10-07-salesforce-innovation-webinar.md | salesforce, entrepreneurship, innovation, benioff, webinar | Online innovation lecture rescheduled from Sep 30 to Oct 7 at 8 PM Eastern.
 events/2026-10-09-finance-101.md | finance, career, first year, life design, recruiting | Finance 101 Oct 9 at noon in the Imagine Center; Handshake registration open; conflicts with Pset 5 and White Paper preparation.
 events/2026-11-25-hazing-prevention-training.md | hazing, training, student affairs, mylearning | Strongly encouraged new-student hazing-prevention course, under 30 minutes with 80% completion score suggested by Nov 25.
