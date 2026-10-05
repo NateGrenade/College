@@ -1,7 +1,7 @@
 ---
 type: event
-status: upcoming
-last_updated: 2026-10-03
+status: ongoing
+last_updated: 2026-10-05
 timezone: America/New_York
 start_date: 2026-10-05
 end_date: 2026-10-14
@@ -13,7 +13,7 @@ end_date: 2026-10-14
 - **Access:** On-Campus Living staff may enter student rooms and common spaces; residents do not need to be present.
 - **Checks cover:** Fire and electrical safety, clear doors/vents/sprinklers, general cleanliness, prohibited items, unauthorized furniture, and unapproved pets.
 - **Preventative maintenance:** Staff may also inspect or replace HVAC filters, check exhaust fans, and perform other routine maintenance; identified issues may generate work orders based on urgency.
-- **Action:** Before October 5, clear exits and vents, remove prohibited items, store food, take out excess trash/recycling, and check appliances, cords, and surge protectors.
+- **Action:** Keep exits and vents clear, remove prohibited items, store food, take out excess trash/recycling, and check appliances, cords, and surge protectors.
 - **Consequences:** Prohibited items may be confiscated. The Residence Director will email next steps if retrieval or reinspection is required.
 - **Status/uncertainties:** Inspection timing for any individual room, findings, confiscation, and reinspection are unknown.
 
