@@ -1,7 +1,7 @@
 ---
 type: event
-status: upcoming
-last_updated: 2026-09-16
+status: application-deadline-today
+last_updated: 2026-10-06
 timezone: America/New_York
 start_date: 2027-01-04
 end_date: 2027-01-22
@@ -15,7 +15,7 @@ application_deadline: 2026-10-06
 - **Applied Physics Laboratory:** Course January 11, 12, and 15; trek January 13-14. Open to undergraduates who will not require current or future employment sponsorship.
 - **Other tracks:** Tech in San Francisco is for sophomores through seniors; International Studies in Washington is for sophomore through senior International Studies majors.
 - **Why it matters:** Finance track offers early industry exposure aligned with quantitative-finance exploration.
-- **Preparation:** Review cost, selection criteria, course obligations, and travel logistics; draft before the October 2-6 academic crunch. Application cutoff coincides with LADS Midterm 1.
+- **Preparation:** Review cost, selection criteria, course obligations, and travel logistics; submit today if pursuing it; the cutoff coincides with LADS Midterm 1 and should not displace exam preparation.
 - **Uncertainties:** Exact daily times, fees, funding, application requirements, and participation are unverified.
 - **Cleanup:** Keep January dates after the application cutoff; do not infer selection.
 

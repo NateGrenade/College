@@ -1,9 +1,9 @@
 ---
 type: opportunities
 status: upcoming
-last_updated: 2026-10-05
+last_updated: 2026-10-06
 timezone: America/New_York
-start_date: 2026-10-04
+start_date: 2026-10-12
 end_date: 2026-11-18
 ---
 
@@ -13,7 +13,6 @@ Optional leads from university-distributed announcements; forwarding does not es
 
 | Deadline / dates | Opportunity | Action and uncertainties |
 |---|---|---|
-| Oct 4 — expired; notification pending | Racing Bulls F1 undergraduate placement 2027/28 | Announced deadline passed; application status unknown. Ask Life Design Lab whether the employer still accepts applications; no late route is confirmed. |
 | Oct 12, 11:59 PM, labeled EST by sender | Ladder Internships scholarship competition | Open to current/rising undergraduates; announcement offers selected startup internships with stipend and a $3,000 program scholarship. Verify fees, award terms, and timezone. |
 | Oct 22, time unspecified | Amerigattes LLC remote Data Analyst Intern | Review current posting for duties, compensation, eligibility, and application terms. |
 | Nov 14-18, times unspecified | Finance Bootcamp | Save as a provisional planning window; schedule, registration cutoff, location, and eligibility not supplied. Collides with November academic work. |
@@ -27,7 +26,3 @@ Optional leads from university-distributed announcements; forwarding does not es
 ## Sources
 
 AMS undergraduate forwards, “Scholarship for $19,900 Finance/Consulting Training Program” and “Startup Internship Opportunity?”, September 29, 2026. Life Design Lab, “Your Opportunities for Systems & Quantitative Engineering Students,” September 29, 2026. Private mail, tracking, and access links omitted.
-
-## Cleanup checkpoint
-
-Retain the Racing Bulls row pending the October 5 elapsed-deadline notice; trim on the next run after notification is verified.

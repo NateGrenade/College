@@ -1,7 +1,7 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-10-03
+last_updated: 2026-10-06
 timezone: America/New_York
 event_date: 2026-10-06
 ---
@@ -13,7 +13,7 @@ event_date: 2026-10-06
 - **Program:** Returning WSE travel-fund recipients present posters on funded international research, internships, and service-learning experiences; light food and a student performance are advertised.
 - **Action:** Register through CampusGroups if interested; no signup cutoff was supplied.
 - **Why it matters:** Early exposure to a WSE-funded summer-abroad opportunity normally awarded to sophomores and juniors.
-- **Planning:** Ends one hour before the 8 PM LADS midterm in Remsen 1; exam preparation should take precedence.
+- **Planning:** Ends 70 minutes before the 8:10 PM LADS midterm in Remsen 1; exam preparation should take precedence.
 - **Status/uncertainties:** Registration, attendance, capacity, and exact location are not established.
 
 ## Source
