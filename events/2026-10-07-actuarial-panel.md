@@ -1,7 +1,7 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-10-02
+last_updated: 2026-10-07
 timezone: America/New_York
 event_date: 2026-10-07
 ---
@@ -13,7 +13,7 @@ event_date: 2026-10-07
 - **Program:** Three actuarial professionals discuss careers, internships, and recruiting, followed by audience Q&A.
 - **Action:** Register through the CampusGroups listing if interested; no signup cutoff was supplied.
 - **Why it matters:** Optional career exploration for an AMS student, with direct access to senior actuarial professionals.
-- **Planning:** Ends when the separate AI-literacy panel begins at 7 PM; the Salesforce webinar begins at 8 PM. These optional events follow the October 6 LADS midterm and precede the October 10 White Paper final.
+- **Planning:** Ends when the separate AI-literacy panel begins at 7 PM; the Salesforce webinar begins at 8 PM. These optional events follow the October 6 LADS midterm and precede the White Paper final (Canvas Oct 11; older reference Oct 10 noon, pending exact-cutoff confirmation).
 - **Status/uncertainties:** Registration, attendance, capacity, and any food are not established.
 
 ## Source

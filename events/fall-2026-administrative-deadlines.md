@@ -1,10 +1,10 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-10-01
+last_updated: 2026-10-07
 timezone: America/New_York
 start_date: 2026-10-01
-end_date: 2026-11-13
+end_date: 2026-11-20
 ---
 
 # Fall 2026 administrative deadlines
@@ -16,7 +16,12 @@ General published deadlines; these do not establish any individual's completion,
 | Early October; exact cutoff unspecified | JH IT will remove SMS and voice-call MFA options. If prompted during JHED sign-in, switch to a supported MFA method promptly. |
 | Before Oct 22 | Complete faculty-mentor meeting before Fall Break; required before the advisor can release the registration hold. First-year students also need a second meeting before term end (exact date unspecified). |
 | Oct 12, 4:30 PM | Full-term course drop deadline. |
+| Oct 26-Nov 6 | Required first-year academic-planning advising appointment. Complete CO.EN.Advising.2026 Module 8 and email the completed degree checkout sheet to the advisor before the appointment. Book in the current-first-year scheduling block. |
+| Week of Oct 26 | Spring 2027 course listings expected; review the entry-year catalogue and departmental requirements beforehand. |
+| Nov 20 | First-year Spring 2027 registration begins; start time not supplied. |
 | Nov 13, 4:30 PM | Full-term withdrawal or grading-method change deadline. |
+
+**Advising ambiguity:** The October 6 email says to use the current-first-year block, but later mentions a sophomore block; follow the first-year direction and ask the advisor if no appointments fit. The supplied course-listings link points to an older term, so select Spring 2027 when available.
 
 **Why it matters:** Registration cutoffs and administrative submissions can have consequences beyond class assignments. Check the relevant portal and current office instructions before acting.
 
@@ -29,4 +34,4 @@ General published deadlines; these do not establish any individual's completion,
 
 ## Source
 
-Student Affairs, September 30, 2026 (MFA change); WSE Advising welcome email, August 31, 2026 (full-term deadlines and first-year mentoring); WSE Opportunities & Announcements, September 9, 2026 (CAL and mentor deadlines); Student Affairs, “Important deadlines, Welcome Weeks, and more,” September 2, 2026 (SEAM and SIS notices); On-Campus Living Room Condition Form notice, September 3, 2026; On-Campus Housing new-roommate notice, September 8, 2026.
+WSE Advising, required Spring 2027 academic-planning notice, October 6, 2026; Student Affairs, September 30, 2026 (MFA change); WSE Advising welcome email, August 31, 2026 (full-term deadlines and first-year mentoring); WSE Opportunities & Announcements, September 9, 2026 (CAL and mentor deadlines); Student Affairs, “Important deadlines, Welcome Weeks, and more,” September 2, 2026 (SEAM and SIS notices); On-Campus Living Room Condition Form notice, September 3, 2026; On-Campus Housing new-roommate notice, September 8, 2026.

@@ -2,48 +2,45 @@
 type: planning-reference
 term: Fall 2026
 status: reference
-last_updated: 2026-10-06
+last_updated: 2026-10-07
 ---
 
 # Fall 2026 — crunch windows
 
-Cross-course planning for HDM, PWE, LADS, and World Prehistory. Reviewed October 6 against Gmail, both calendars through December 23, INDEX.md, and relevant course references. HDM future exam dates remain tentative; World Prehistory coverage is incomplete. Recheck this plan whenever deadlines change.
+Reviewed October 7 against Gmail, both calendars through December 23, INDEX.md, all event files, and relevant course references. This is provisional planning, not a record of individual completion. HDM future exams remain tentative; World Prehistory coverage is incomplete.
 
-## Current priorities — October 6-11
+## Current priorities — October 7-12
 
-- **Tue Oct 6, 8:10-9:10 PM:** LADS Midterm 1, **Remsen 1**, worth **20%**. This ten-minute shift supersedes the earlier 8-9 PM listing because another event occupies the room until 8 PM. Six multipart problems; Lectures 1-12 and HW1-5. One one-sided letter sheet handwritten by the student (tablet handwriting printed is permitted); no calculator, books, other notes, or electronics. Arrive early and leave an empty seat between students.
-- **LADS recitations today:** Optional extra office hours; attendance is not taken. Attend any section, multiple sections, or none. Junyeol's separate 8-10 PM office hours are canceled.
-- **PWE today, 1:30-2:45 PM, Bloomberg 276:** Team feedback/work session. No homework was assigned for today, and watching the feedback video beforehand is optional. Teams receive 10 minutes to plan questions and the remaining 50 minutes to revise; Thursday advocacy-roundtable expectations will be covered.
-- **Wed Oct 7:** HDM Pset 3 regrade requests due; exact cutoff time unspecified.
-- **Thu Oct 8:** PWE advocacy roundtables: each team speaks collaboratively for five minutes, regroups for one, then answers four minutes of student-led Q&A. Slides or a one-pager are optional. HDM discussion participation is also listed as an all-day Canvas item.
-- **Fri Oct 9:** HDM Pset 5; date confirmed by Canvas, cutoff not exposed. Crystal's office hours are canceled this Friday and resume next week.
-- **Sat Oct 10, noon:** PWE White Paper final, worth 25%.
-- **Sun Oct 11, 11:59 PM:** LADS HW6.
-- **Anthropology:** Debate #1 Replacement Model group is established, but its date and completion remain unverified. The Canvas Debate Grades item has no due date. Do not treat Oct 1, Nov 5, or Dec 10 as confirmed.
+- **Wed Oct 7:** HDM Pset 3 regrade requests due; cutoff unspecified. Inspect feedback before the window closes.
+- **PWE feedback:** Instructor moved White Paper feedback to October 7, after the October 6 team meeting and revision time.
+- **Thu Oct 8:** PWE advocacy roundtables: five-minute collaborative presentation, one minute to regroup, four-minute student-led Q&A. Slides or a one-pager are optional. HDM discussion participation is also listed.
+- **Fri Oct 9:** HDM Pset 5; Canvas confirms the date, not cutoff time. Crystal's Friday office hours and Kara's hours this week are canceled. Alex adds **Oct 7, 4:30-6 PM, Wyman S425**; Alice adds **Oct 10, 11 AM-noon, Zoom**. Saturday is after Pset 5's deadline.
+- **White Paper final, 25%:** Current Canvas calendar lists **Sunday Oct 11**, all day, while the older course reference says **Saturday Oct 10 at noon**. Exact live assignment cutoff remains unverified; use Saturday noon as the safe completion target pending clarification.
+- **White Paper peer/self evaluation:** Canvas lists **Oct 11**, cutoff not exposed. Submission is required to receive the White Paper final grade.
+- **Mon Oct 12:** LADS HW6, explicitly moved from Oct 11 by the October 6 instructor email. Standard syllabus cutoff is 11:59 PM; the new email does not restate the time, so verify Gradescope.
+- **Anthropology:** Exam #1 grade is available; score not included in email. Debate #1 date/completion remains unverified; do not infer a date from the group number.
 
-The 20% midterm controls today. Use recitation only for targeted gaps, finalize the sheet, complete one timed problem block, and stop intensive study early enough to eat and reach Remsen 1 calmly. After the exam, shift to Pset 5, White Paper revision, and HW6.
+First check the time-limited regrade opportunity, then prepare tomorrow's roundtable and revise the 25% White Paper. Give Pset 5 a substantial block early enough to bring questions to Wednesday office hours. Inspect HW6 now and preserve weekend/Monday time; its extension does not remove the October 16 double-math deadline.
 
 ## Upcoming events and decisions
 
-- **Oct 5-14, 9 AM-6 PM:** Housing checks and preventative maintenance; clear exits and vents. Residents need not be present.
-- **Oct 6:** Jay Term career-trek applications; Finance in New York accepts first-years. Cutoff time and individual application status are unknown.
-- **Oct 6:** Blue Jay Dialogue Fund collaborative-grant applications; cutoff time unspecified.
-- **Oct 6, 5:30-7 PM:** Optional Vredenburg reception; **6:30 PM** off-campus financial-aid workshop. Both compete with final midterm preparation.
-- **Oct 7, noon-1 PM:** Hedge Funds 101 webinar with a JHU alumnus from Brevan Howard, covering Summer 2027 opportunities in trading, research, data analysis, venture capital, risk, and quant analytics.
+- **Oct 7, noon-1 PM:** Hedge Funds 101 webinar; relevant to trading, research, data, risk, and quantitative internships.
 - **Oct 7:** Actuarial panel **6-7 PM, Hodson 213**; AI-literacy panel **7 PM, Mudd Hall**; Salesforce webinar **8 PM**. Choose selectively.
-- **Oct 8, 7 PM:** Optional free Mary Oliver documentary and filmmaker discussion, Parkway Theatre.
-- **Oct 9, noon:** Finance 101, Imagine Center; registration on Handshake. Preserve Pset 5 and paper work.
-- **Oct 10:** HopOpps profile deadline extended; cutoff unspecified. Submit through Awarded even if the résumé/LinkedIn is unfinished.
-- **Oct 12, 4:30 PM:** Full-term course-drop deadline. LADS does not guarantee midterm grades before this deadline.
-- **Before Oct 22:** Required faculty-mentor meeting for registration-hold release.
-- **Oct 16:** LADS HW7 and HDM Pset 6; HDM cutoff unspecified.
+- **Oct 5-14, 9 AM-6 PM:** Housing checks and preventative maintenance remain active.
+- **Oct 8, 7 PM:** Optional Mary Oliver screening, Parkway Theatre.
+- **Oct 9, noon:** Finance 101, Imagine Center; registration through Handshake.
+- **Oct 10:** HopOpps profile deadline; cutoff unspecified.
+- **Oct 12, 4:30 PM:** Full-term course-drop deadline. LADS does not guarantee midterm grades before then.
+- **Before Oct 22:** Required faculty-mentor meeting.
+- **Oct 26-Nov 6:** First-year academic-planning advising appointments. Complete Canvas Module 8 and email the completed degree checkout sheet before the appointment; book early. Spring registration begins **Nov 20**.
+- **Oct 16:** LADS HW7 and HDM Pset 6; confirm live cutoffs.
 - **Oct 21, 11:59 PM:** HDM Pset 7, confirmed by October 3 Canvas digest.
 - **Oct 27-30:** DSAI and AI-energy events precede tentative HDM Exam 2, LADS HW9, and Tech Internship Academy applications on Oct 30.
 - **Nov 1-3:** NASEC only if selected; outcome unknown. Front-load November 6 work before any travel.
 
 ## Sources and uncertainty
 
-LADS instructor reminder October 5; PWE instructor email October 5; Gradescope and Canvas notices; both calendars; repository course references and individual event files. Personal submission details and private access links are omitted from this public planning file.
+LADS instructor email October 6; PWE instructor emails October 5-6; HDM office-hours announcement October 6; WSE advising email October 6; Gradescope and Canvas notices; calendars checked October 7; repository course references. Older assignment files retain stale dates/statuses; newer explicit notices control this plan. Private submission details, access links, and email bodies are omitted.
 
 ---
 
@@ -59,7 +56,7 @@ LADS instructor reminder October 5; PWE instructor email October 5; Gradescope a
 | **Fri 11-20** | **HDM Exam 3 (tentative)** |
 | **Sat 11-21** | **PWE Policy Brief (Individual), 30%** |
 
-Same structural problem as Window A, stretched over three weeks.
+This window combines major exams with a 30% individual paper.
 
 **The conflicts:**
 - The Nov 6 triple sits inside Midterm 2's prep window, leaving only
@@ -108,7 +105,7 @@ to Dec 12-14.
 ## Recurring rhythm
 
 Fridays are structurally loaded: LADS homework and HDM psets both default
-there. **Sep 18, Sep 25, Oct 16, Dec 11** are double-pset days with no exam
+there. **Oct 16, Dec 11** are double-pset days with no exam
 attached. Wednesday and Thursday evenings are the standing work block.
 
 ## Standing trap — PWE attendance
@@ -120,9 +117,6 @@ This is the one place where the obvious crunch-week move is the wrong one.
 
 ## Preparation stretches — check the actual workload
 
-- **Sep 5 - Sep 25** — recurring work in both math courses, including paired
-  deadlines on Sep 18 and Sep 25, plus Writing readings and responses. Build
-  Midterm 1 material around those commitments; this is not one item per week.
 - **Oct 12 - Oct 28** — both math courses have work, including the Oct 16
   double deadline and LADS HW 8 on Oct 26. Prepare for HDM Exam 2 and LADS
   HW 9 on Oct 30, plus the Policy Brief rough draft due Nov 6.

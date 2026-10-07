@@ -1,15 +1,14 @@
 ---
 type: event
 status: upcoming
-last_updated: 2026-10-01
+last_updated: 2026-10-07
 timezone: America/New_York
-start_date: 2026-10-06
+start_date: 2026-10-14
 end_date: 2026-12-07
 ---
 
 # Fall financial-wellness events
 
-- **Oct 6, 6:30 PM:** Moving Off-Campus: Understanding Financial Aid, BSC; registration through Hopkins Groups.
 - **Oct 14, 5 PM:** Investing 101 webinar.
 - **Nov 9:** AI & Your Money.
 - **Dec 7:** Scams, Insurance & Protecting Your Money.

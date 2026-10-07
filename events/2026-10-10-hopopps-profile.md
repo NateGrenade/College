@@ -1,7 +1,7 @@
 ---
 type: administrative-opportunity
 status: upcoming
-last_updated: 2026-10-05
+last_updated: 2026-10-07
 timezone: America/New_York
 deadline: 2026-10-10
 ---
@@ -12,7 +12,7 @@ deadline: 2026-10-10
 - **Action:** Sign in to [Awarded](https://jhu.student.awardedsoftware.com), complete the student profile, review, and select Confirm Changes and Submit.
 - **Preparation:** Two or three sentences are sufficient for long-form responses. An unfinished résumé/CV or LinkedIn should not prevent submission; the office may request additional information after a match.
 - **Why it matters:** Student Financial Support profile for university opportunity matching.
-- **Planning:** Same date as the 25% White Paper final; complete after the October 6 midterm with time remaining before Saturday.
+- **Planning:** Falls in the White Paper revision window (Canvas Oct 11; older reference Oct 10 noon). Complete with time remaining before Saturday.
 - **Uncertainties:** Individual submission or matching status and exact cutoff time are unknown.
 
 ## Source
